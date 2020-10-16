@@ -19,7 +19,7 @@ jobs:
 
       - name: Get hash
         run: |
-          echo ::set-env name=TAG_NAME::$(sha1sum vk-respack.zip)
+          echo ::set-env name=HASH::$(sha1sum vk-respack.zip)
 
         # Delete old release (latest)
       - name: Delete tag and release
@@ -37,6 +37,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          body: ${{ env.HASH }}
           tag_name: latest
           release_name: release
           draft: false
