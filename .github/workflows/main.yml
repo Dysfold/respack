@@ -10,21 +10,29 @@ jobs:
     name: Upload Release Asset
     runs-on: ubuntu-latest
     steps:
+        # Zip the respack
       - name: Checkout code
         uses: actions/checkout@v2
       - name: Build project # This would actually build your project, using zip for an example artifact
         run: |
           zip -r vk-respack assets/ pack.mcmeta
+
+        # Delete old release (latest)
+      - name: Delete latest release
+        uses: ame-yu/action-delete-latest-release@v2
+          
+        # Create new release
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: ${{ github.ref }}
+          tag_name: latest
           release_name: release
           draft: false
           prerelease: false
+        
       - name: Upload Release Asset
         id: upload-release-asset 
         uses: actions/upload-release-asset@v1
