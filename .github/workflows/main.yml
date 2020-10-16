@@ -19,7 +19,7 @@ jobs:
 
       - name: Get hash
         run: |
-          echo ::set-env name=HASH::$(sha1sum vk-respack.zip)
+          echo ::set-env name=HASH::$(sha1sum ./vk-respack.zip)
 
         # Delete old release (latest)
       - name: Delete tag and release
