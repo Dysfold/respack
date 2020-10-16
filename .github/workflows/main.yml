@@ -11,5 +11,5 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
-        filename: 'release.zip'
+        filename: 'latest.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
