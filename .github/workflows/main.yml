@@ -23,7 +23,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: https://uploads.github.com/repos/Laetta/respack/releases/32669402/assets{?name,label} 
+          upload_url: ${{ "https://uploads.github.com/repos/Laetta/respack/releases/32669402/assets{?name,label}" }} 
           asset_path: ./vk-respack.zip
           asset_name: vk-respack.zip
           asset_content_type: application/zip
