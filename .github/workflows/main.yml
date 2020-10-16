@@ -16,27 +16,6 @@ jobs:
       - name: Build project # This would actually build your project, using zip for an example artifact
         run: |
           zip -r vk-respack assets/ pack.mcmeta
-
-        # Delete old release (latest)
-      - name: Delete tag and release
-        uses: dev-drprasad/delete-tag-and-release@v0.1.2
-        with:
-          delete_release: true # default: false
-          tag_name: latest # tag name to delete
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          
-        # Create new release
-      - name: Create Release
-        id: create_release
-        uses: actions/create-release@v1
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          tag_name: latest
-          release_name: release
-          draft: false
-          prerelease: false
         
       - name: Upload Release Asset
         id: upload-release-asset 
@@ -44,7 +23,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
+          upload_url: https://uploads.github.com/repos/Laetta/respack/releases/32669402/assets{?name,label} 
           asset_path: ./vk-respack.zip
           asset_name: vk-respack.zip
           asset_content_type: application/zip
