@@ -4,6 +4,20 @@
     "layer0": "minecraft:item/heart_of_the_sea"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1}, "model": "cmd/kielletyt/1_ruumis"}
+    { "predicate": { "custom_model_data": 1}, "model": "cmd/kielletyt/1_ruumis"},
+    { "predicate": { "custom_model_data": 2}, "model": "cmd/kielletyt/2_black_bishop"},
+    { "predicate": { "custom_model_data": 3}, "model": "cmd/kielletyt/3_black_king"},
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/kielletyt/4_black_knight"},
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/kielletyt/5_black_pawn"},
+    { "predicate": { "custom_model_data": 6}, "model": "cmd/kielletyt/6_black_queen"},
+    { "predicate": { "custom_model_data": 7}, "model": "cmd/kielletyt/7_black_rook"},
+    { "predicate": { "custom_model_data": 8}, "model": "cmd/kielletyt/8_selection"},
+    { "predicate": { "custom_model_data": 9}, "model": "cmd/kielletyt/9_white_bishop"},
+    { "predicate": { "custom_model_data": 10}, "model": "cmd/kielletyt/10_white_king"},
+    { "predicate": { "custom_model_data": 11}, "model": "cmd/kielletyt/11_white_knight"},
+    { "predicate": { "custom_model_data": 12}, "model": "cmd/kielletyt/12_white_pawn"},
+    { "predicate": { "custom_model_data": 13}, "model": "cmd/kielletyt/13_white_queen"},
+    { "predicate": { "custom_model_data": 14}, "model": "cmd/kielletyt/14_white_rook"},
+    { "predicate": { "custom_model_data": 15}, "model": "cmd/kielletyt/15_engine_empty"}
   ]
 }

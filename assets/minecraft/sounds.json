@@ -1,0 +1,47 @@
+{
+	"custom.piano0": {
+		"category": "neutral",
+		"sounds": [
+			{
+				"name": "custom/piano/piano0",
+				"stream": false,
+				"attenuation_distance": 20			
+			}]
+	},
+	"custom.piano1": {
+		"category": "neutral",
+		"sounds": [
+			{
+				"name": "custom/piano/piano1",
+				"stream": false,
+				"attenuation_distance": 20			
+			}]
+	},
+	"custom.piano2": {
+		"category": "neutral",
+		"sounds": [
+			{
+				"name": "custom/piano/piano2",
+				"stream": false,
+				"attenuation_distance": 20			
+			}]
+	},
+	"custom.piano3": {
+		"category": "neutral",
+		"sounds": [
+			{
+				"name": "custom/piano/piano3",
+				"stream": false,
+				"attenuation_distance": 20			
+			}]
+	},
+	"custom.piano4": {
+		"category": "neutral",
+		"sounds": [
+			{
+				"name": "custom/piano/piano4",
+				"stream": false,
+				"attenuation_distance": 20		
+			}]
+	}
+}

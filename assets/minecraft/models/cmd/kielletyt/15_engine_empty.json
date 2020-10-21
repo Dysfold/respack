@@ -1,0 +1,15 @@
+{
+	"__comment": "Valtakausi",
+	"textures": {
+		"particle": "cmd/kielletyt/chess_white",
+		"texture": "cmd/kielletyt/chess_white"
+	},
+    "display": {
+        "head": {
+            "scale": [ 0.3, 0.3, 0.3 ],
+			"translation": [0, -30.7, 0]
+        }
+    },
+	"elements": [ 
+	]
+}

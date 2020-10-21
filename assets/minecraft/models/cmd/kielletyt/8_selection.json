@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench by AasiApina",
+	"ambientocclusion": false,
+	"textures": {
+		"texture": "cmd/kielletyt/chess_selection",
+		"particle": "cmd/kielletyt/chess_selection"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 7],
+			"to": [9, 0, 9],
+			"faces": {
+				"up": {"uv": [7, 7, 9, 9], "texture": "#texture"}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"translation": [0, -13.75, 0],
+			"scale": [1.7, 2.4, 1.7]
+		}
+	}
+}
