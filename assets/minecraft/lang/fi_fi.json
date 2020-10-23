@@ -1,32 +1,32 @@
 {
-  "valtakausi.item.sapeli": "Sapeli",
-  "valtakausi.item.puukko": "Puukko",
-  "valtakausi.item.pitkamiekka": "Pitk\u00e4miekka",
-  "valtakausi.item.rapiiri": "Rapiiri",
+  "valtakausi.item.saber": "Sapeli",
+  "valtakausi.item.knife": "Puukko",
+  "valtakausi.item.long_sword": "Pitk\u00e4miekka",
+  "valtakausi.item.rapier": "Rapiiri",
   "valtakausi.item.katana": "Katana",
-  "valtakausi.item.viidakkoveitsi": "Viidakkoveitsi",
+  "valtakausi.item.jungle_knife": "Viidakkoveitsi",
   "valtakausi.item.gladius": "Gladius",
   "valtakausi.item.glaive": "Glaive",
-  "valtakausi.item.palava_miekka": "Palava miekka",
+  "valtakausi.item.flaming_sword": "Palava miekka",
 
-  "valtakausi.item.sirppi": "Sirppi",
-  "valtakausi.item.viitake": "Viitake",
-  "valtakausi.item.ruoska": "Ruoska",
-  "valtakausi.item.paimensauva": "Paimensauva",
-  "valtakausi.item.saha": "Saha",
-  "valtakausi.item.sotakirves": "Sotakirves",
-  "valtakausi.item.keihas": "Keih\u00e4s",
-  "valtakausi.item.vasara": "Vasara",
-  "valtakausi.item.pihdit": "Pihdit",
-  "valtakausi.item.tiirikka": "Tiirikka",
+  "valtakausi.item.sickle": "Sirppi",
+  "valtakausi.item.scythe": "Viikate",
+  "valtakausi.item.whip": "Ruoska",
+  "valtakausi.item.shepherd_staff": "Paimensauva",
+  "valtakausi.item.hand_saw": "Saha",
+  "valtakausi.item.war_axe": "Sotakirves",
+  "valtakausi.item.spear": "Keih\u00e4s",
+  "valtakausi.item.hammer": "Vasara",
+  "valtakausi.item.pliers": "Pihdit",
+  "valtakausi.item.picklock": "Tiirikka",
 
-  "valtakausi.item.heittotahti": "Heittotähti",
-  "valtakausi.item.bumerangi": "Bumerangi",
+  "valtakausi.item.throwing_star": "Heittotähti",
+  "valtakausi.item.boomerang": "Bumerangi",
 
-  "valtakausi.item.kolmikolkka": "Kolmikolkka",
-  "valtakausi.item.kultakruunu": "Kultakruunu",
-  "valtakausi.item.silinteri": "Silinteri",
-  "valtakausi.item.steampunk_silinteri": "Steampunk-silinteri",
+  "valtakausi.item.tricorne": "Kolmikolkka",
+  "valtakausi.item.golden_crown": "Kultakruunu",
+  "valtakausi.item.topper": "Silinteri",
+  "valtakausi.item.steampunk_topper": "Steampunk-silinteri",
   
   "block.minecraft.diamond_ore": "Rikkimalmi",
   "block.minecraft.diamond_block": "Rikkikuutio",
@@ -89,6 +89,13 @@
   "block.minecraft.warped_trapdoor": "Kivitiililuukku",
   
   "block.minecraft.dark_prismarine_slab": "Jauhomylly",
+  "item.minecraft.phantom_membrane": "Jauho",
 
-  "block.minecraft.soul_torch": "Kynttil\u00e4"
+  "block.minecraft.soul_torch": "Kynttil\u00e4",
+
+  "block.minecraft.brown_glazed_terracotta": "Piano",
+  "block.minecraft.gray_glazed_terracotta": "Shakkilauta",
+
+
+  "block.minecraft.warped_pressure_plate": "Karhunrauta"
 }

@@ -3,6 +3,7 @@
   "textures": {
     "layer0": "minecraft:item/shulker_shell"
   },
-  "overrides": [
+  "overrides":  [
+    { "predicate": { "custom_model_data": 1}, "model": "cmd/tavalliset/1_hand_grindstone"}
   ]
 }
