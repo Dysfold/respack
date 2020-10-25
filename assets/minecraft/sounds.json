@@ -43,5 +43,24 @@
 				"stream": false,
 				"attenuation_distance": 20		
 			}]
+	},  
+	"block.wooden_door.close": {
+		"replace": "true"
+	},
+	"block.wooden_door.open": {
+		"replace": "true"
+	},
+	"non-silent.wooden_door.close": {
+		"sounds": [
+		  "block/wooden_door/close2",
+		  "block/wooden_door/close5",
+		  "block/wooden_door/close6"
+		]
+	},
+	"non-silent.wooden_door.open": {
+		"sounds": [
+		  "block/wooden_door/open3",
+		  "block/wooden_door/open4"
+		]
 	}
 }
