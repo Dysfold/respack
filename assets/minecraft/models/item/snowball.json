@@ -4,7 +4,17 @@
     "layer0": "item/snowball"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1}, "model": "cmd/heitettavat/1_heittotahti"},
-    { "predicate": { "custom_model_data": 2}, "model": "cmd/heitettavat/2_bumerangi"}
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "cmd/heitettavat/1_heittotahti"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "cmd/heitettavat/2_bumerangi"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "cmd/heitettavat/3_ball"
+    }
   ]
 }
