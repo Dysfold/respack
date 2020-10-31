@@ -1,0 +1,53 @@
+{
+  "credit": "Made with Blockbench",
+  "parent": "block/block",
+  "textures": {
+    "0": "item/pumpkin_pie",
+    "particle": "item/pumpkin_pie"
+  },
+  "elements": [
+    {
+      "from": [4, 5, 8],
+      "to": [13, 7, 13],
+      "faces": {
+        "north": { "uv": [0, 9, 8, 11], "texture": "#0" },
+        "east": { "uv": [7, 13, 11, 15], "texture": "#0" },
+        "south": { "uv": [7, 13, 11, 15], "texture": "#0" },
+        "west": { "uv": [7, 13, 11, 15], "texture": "#0" },
+        "up": { "uv": [9, 7, 13, 11], "rotation": 90, "texture": "#0" },
+        "down": { "uv": [7, 14, 8, 15], "rotation": 270, "texture": "#0" }
+      }
+    },
+    {
+      "from": [8, 5, 4],
+      "to": [13, 7, 9],
+      "faces": {
+        "north": { "uv": [7, 13, 11, 15], "texture": "#0" },
+        "east": { "uv": [7, 13, 11, 15], "texture": "#0" },
+        "south": { "uv": [7, 13, 11, 15], "texture": "#0" },
+        "west": { "uv": [3, 9, 7, 11], "texture": "#0" },
+        "up": { "uv": [10, 7, 13, 10], "rotation": 90, "texture": "#0" },
+        "down": { "uv": [7, 14, 8, 15], "rotation": 270, "texture": "#0" }
+      }
+    },
+    {
+      "from": [2, 5, 2],
+      "to": [7, 7, 7],
+      "faces": {
+        "north": { "uv": [7, 13, 11, 15], "texture": "#0" },
+        "east": { "uv": [2, 10, 6, 12], "texture": "#0" },
+        "south": { "uv": [3, 9, 7, 11], "texture": "#0" },
+        "west": { "uv": [7, 13, 11, 15], "texture": "#0" },
+        "up": { "uv": [9, 7, 13, 11], "rotation": 90, "texture": "#0" },
+        "down": { "uv": [8, 14, 9, 15], "rotation": 270, "texture": "#0" }
+      }
+    }
+  ],
+  "display": {
+    "fixed": {
+      "rotation": [-90, 0, 0],
+      "translation": [0, 0, -3.5],
+      "scale": [1.5, 1.5, 1.5]
+    }
+  }
+}
