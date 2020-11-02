@@ -1,0 +1,12 @@
+{
+	"textures": {
+		"particle": "cmd/hidden/chess_black",
+		"texture": "cmd/hidden/chess_black"
+	},
+	"display": {
+        "head": {
+            "scale": [ 0.3, 0.3, 0.3 ],
+			"translation": [0, -30.7, 0]
+        }
+    }
+}
