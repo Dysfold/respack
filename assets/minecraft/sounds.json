@@ -62,5 +62,10 @@
 		  "block/wooden_door/open3",
 		  "block/wooden_door/open4"
 		]
+	},
+	"custom.lock": {
+		"sounds": [
+		  "custom/lock/lock"
+		]
 	}
 }
