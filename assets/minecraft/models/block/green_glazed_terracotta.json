@@ -1,0 +1,83 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"6": "block/observer_top",
+		"8": "block/furnace_top",
+		"saw": "block/stonecutter_saw",
+		"particle": "block/furnace_top"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [16, 0, 0, 16], "rotation": 270, "texture": "#6"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#8"},
+				"south": {"uv": [0, 0, 16, 16], "rotation": 90, "texture": "#6"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#8"},
+				"up": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#8"},
+				"down": {"uv": [0, 0, 16, 16], "rotation": 180, "texture": "#8"}
+			}
+		},
+		{
+			"name": "saw",
+			"from": [5, 22, 8],
+			"to": [11, 23, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [9, 31, 0]},
+			"faces": {
+				"north": {"uv": [5, 9, 11, 10], "texture": "#saw"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#missing"},
+				"south": {"uv": [5, 9, 11, 10], "texture": "#saw"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#missing"},
+				"down": {"uv": [0, 0, 10, 0], "rotation": 180, "texture": "#missing"}
+			}
+		},
+		{
+			"name": "saw",
+			"from": [2, 19, 8],
+			"to": [14, 21, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 29, 0]},
+			"faces": {
+				"north": {"uv": [2, 11, 14, 13], "texture": "#saw"},
+				"east": {"uv": [0, 0, 0, 2], "texture": "#missing"},
+				"south": {"uv": [2, 11, 14, 13], "texture": "#saw"},
+				"west": {"uv": [0, 0, 0, 2], "texture": "#missing"},
+				"down": {"uv": [0, 0, 12, 0], "rotation": 180, "texture": "#missing"}
+			}
+		},
+		{
+			"name": "saw",
+			"from": [1, 16, 8],
+			"to": [15, 19, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 26, 8]},
+			"faces": {
+				"north": {"uv": [1, 13, 15, 16], "texture": "#saw"},
+				"east": {"uv": [0, 0, 0, 3], "texture": "#missing"},
+				"south": {"uv": [1, 13, 15, 16], "texture": "#saw"},
+				"west": {"uv": [0, 0, 0, 3], "texture": "#missing"},
+				"down": {"uv": [0, 0, 14, 0], "rotation": 180, "texture": "#missing"}
+			}
+		},
+		{
+			"from": [3, 21, 8],
+			"to": [13, 22, 8],
+			"rotation": {"angle": 0, "axis": "y", "origin": [3, 29, 16]},
+			"faces": {
+				"north": {"uv": [3, 10, 13, 11], "texture": "#saw"},
+				"east": {"uv": [0, 0, 0, 1], "texture": "#missing"},
+				"south": {"uv": [3, 10, 13, 11], "texture": "#saw"},
+				"west": {"uv": [0, 0, 0, 1], "texture": "#missing"},
+				"up": {"uv": [0, 0, 0, 6], "rotation": 90, "texture": "#missing"},
+				"down": {"uv": [0, 0, 0, 6], "rotation": 270, "texture": "#missing"}
+			}
+		}
+	],
+	"groups": [0,
+		{
+			"name": "blade",
+			"origin": [0, 26, 8],
+			"children": [1, 2, 3, 4]
+		}
+	]
+}
