@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:item/handheld",
+	"parent": "templates/hat",
   "textures": {
     "layer0": "minecraft:item/diamond_hoe"
   },
@@ -7,6 +7,15 @@
     { "predicate": { "custom_model_data": 1}, "model": "cmd/hats/1_tricorne"},
     { "predicate": { "custom_model_data": 2}, "model": "cmd/hats/2_golden_crown"},
     { "predicate": { "custom_model_data": 3}, "model": "cmd/hats/3_topper"},
-    { "predicate": { "custom_model_data": 4}, "model": "cmd/hats/4_steampunk_topper"}
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/hats/4_steampunk_topper"},
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/hats/5_hay_hat"},
+    { "predicate": { "custom_model_data": 6}, "model": "cmd/hats/6_cowboy_hat"},
+    { "predicate": { "custom_model_data": 7}, "model": "cmd/hats/7_wizard_hat"},
+    { "predicate": { "custom_model_data": 8}, "model": "cmd/hats/8_academic_cap"},
+    { "predicate": { "custom_model_data": 9}, "model": "cmd/hats/9_beanie"},
+    { "predicate": { "custom_model_data": 10}, "model": "cmd/hats/10_ascot_cap"},
+    { "predicate": { "custom_model_data": 11}, "model": "cmd/hats/11_commissar_cap"},
+    { "predicate": { "custom_model_data": 12}, "model": "cmd/hats/12_campero"},
+    { "predicate": { "custom_model_data": 13}, "model": "cmd/hats/13_boater"}
   ]
 }
