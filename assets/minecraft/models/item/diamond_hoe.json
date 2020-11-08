@@ -11,11 +11,14 @@
     { "predicate": { "custom_model_data": 5}, "model": "cmd/hats/5_hay_hat"},
     { "predicate": { "custom_model_data": 6}, "model": "cmd/hats/6_cowboy_hat"},
     { "predicate": { "custom_model_data": 7}, "model": "cmd/hats/7_wizard_hat"},
-    { "predicate": { "custom_model_data": 8}, "model": "cmd/hats/8_academic_cap"},
+    { "predicate": { "custom_model_data": 8}, "model": "cmd/hats/8_mortarboard"},
     { "predicate": { "custom_model_data": 9}, "model": "cmd/hats/9_beanie"},
-    { "predicate": { "custom_model_data": 10}, "model": "cmd/hats/10_ascot_cap"},
-    { "predicate": { "custom_model_data": 11}, "model": "cmd/hats/11_commissar_cap"},
+    { "predicate": { "custom_model_data": 10}, "model": "cmd/hats/10_flat_cap"},
+    { "predicate": { "custom_model_data": 11}, "model": "cmd/hats/11_bowler"},
     { "predicate": { "custom_model_data": 12}, "model": "cmd/hats/12_campero"},
-    { "predicate": { "custom_model_data": 13}, "model": "cmd/hats/13_boater"}
+    { "predicate": { "custom_model_data": 13}, "model": "cmd/hats/13_boater"},
+    { "predicate": { "custom_model_data": 14}, "model": "cmd/hats/14_shepherd_hat"},
+    { "predicate": { "custom_model_data": 15}, "model": "cmd/hats/15_furry_cap"},
+    { "predicate": { "custom_model_data": 16}, "model": "cmd/hats/16_viking_helmet"}
   ]
 }

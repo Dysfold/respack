@@ -7,8 +7,8 @@
             "scale":[ 0.7, 0.7, 0.7 ]
         },
         "head": {
-            "translation": [0, 19, 0],
-            "scale": [1.65, 1.65, 1.65]
+            "translation": [0, 21, 0],
+            "scale": [1.82, 1.82, 1.82]
         },
         "ground": {
             "translation": [ 0, 10, 0],
