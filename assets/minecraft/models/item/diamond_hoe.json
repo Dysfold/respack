@@ -18,6 +18,8 @@
     { "predicate": { "custom_model_data": 13}, "model": "cmd/hats/13_boater"},
     { "predicate": { "custom_model_data": 14}, "model": "cmd/hats/14_shepherd_hat"},
     { "predicate": { "custom_model_data": 15}, "model": "cmd/hats/15_furry_cap"},
-    { "predicate": { "custom_model_data": 16}, "model": "cmd/hats/16_viking_helmet"}
+    { "predicate": { "custom_model_data": 16}, "model": "cmd/hats/16_viking_helmet"},
+    { "predicate": { "custom_model_data": 17}, "model": "cmd/hats/17_tyrolean_hat"},
+    { "predicate": { "custom_model_data": 18}, "model": "cmd/hats/18_bear_hat"}
   ]
 }
