@@ -1,5 +1,4 @@
 {
-	"parent": "templates/hat",
   "textures": {
     "layer0": "minecraft:item/diamond_hoe"
   },
