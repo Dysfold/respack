@@ -52,4 +52,11 @@ jobs:
           upload_url: ${{ steps.create_release.outputs.upload_url }} # This pulls from the CREATE RELEASE step above, referencing it's ID to get its outputs object, which include a `upload_url`. See this blog post for more info: https://jasonet.co/posts/new-features-of-github-actions/#passing-data-to-future-steps 
           asset_path: ./vk-respack.zip
           asset_name: vk-respack.zip
-          asset_content_type: application/zip
+          asset_content_type: application/zip  
+      - uses: actions/checkout@master
+      - name: send custom message with args
+        uses: appleboy/discord-action@master
+        with:
+          webhook_id: ${{ secrets.WEBHOOK_ID }}
+          webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
+          args: The ${{ github.event_name }} event triggered first step.
