@@ -1,3 +1,3 @@
 ### Resource pack
-1.16.3+
+Minecraft 1.16.3+
 
