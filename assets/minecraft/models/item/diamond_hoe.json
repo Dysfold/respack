@@ -8,7 +8,7 @@
     { "predicate": { "custom_model_data": 3}, "model": "cmd/hats/3_topper"},
     { "predicate": { "custom_model_data": 4}, "model": "cmd/hats/4_steampunk_topper"},
     { "predicate": { "custom_model_data": 5}, "model": "cmd/hats/5_hay_hat"},
-    { "predicate": { "custom_model_data": 6}, "model": "cmd/hats/6_cowboy_hat"},
+    { "predicate": { "custom_model_data": 6}, "model": "cmd/hats/6_small_cowboy_hat"},
     { "predicate": { "custom_model_data": 7}, "model": "cmd/hats/7_wizard_hat"},
     { "predicate": { "custom_model_data": 8}, "model": "cmd/hats/8_mortarboard"},
     { "predicate": { "custom_model_data": 9}, "model": "cmd/hats/9_beanie"},
@@ -22,6 +22,11 @@
     { "predicate": { "custom_model_data": 17}, "model": "cmd/hats/17_tyrolean_hat"},
     { "predicate": { "custom_model_data": 18}, "model": "cmd/hats/18_bear_hat"},
     { "predicate": { "custom_model_data": 19}, "model": "cmd/hats/19_feather_hat"},
-    { "predicate": { "custom_model_data": 20}, "model": "cmd/hats/20_beret"}
+    { "predicate": { "custom_model_data": 20}, "model": "cmd/hats/20_beret"},
+    { "predicate": { "custom_model_data": 21}, "model": "cmd/hats/21_cowboy_hat"},
+    { "predicate": { "custom_model_data": 22}, "model": "cmd/hats/22_white_cowboy_hat"},
+    { "predicate": { "custom_model_data": 23}, "model": "cmd/hats/23_flower_crown"},
+    { "predicate": { "custom_model_data": 24}, "model": "cmd/hats/24_pipe"},
+    { "predicate": { "custom_model_data": 25}, "model": "cmd/hats/25_corinthian_helmet"}
   ]
 }

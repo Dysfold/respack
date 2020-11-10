@@ -1,0 +1,80 @@
+{
+  "variants": {
+    "facing=east,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 270,
+      "model": "minecraft:block/saw_stationary"
+    },
+    "facing=east,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 270,
+      "model": "minecraft:block/saw"
+    },
+    "facing=east,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 270,
+      "model": "minecraft:block/saw_stationary"
+    },
+    "facing=east,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 270,
+      "model": "minecraft:block/saw"
+    },
+    "facing=north,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 180,
+      "model": "minecraft:block/saw_stationary"
+    },
+    "facing=north,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 180,
+      "model": "minecraft:block/saw"
+    },
+    "facing=north,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 180,
+      "model": "minecraft:block/saw_stationary"
+    },
+    "facing=north,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 180,
+      "model": "minecraft:block/saw"
+    },
+    "facing=south,in_wall=false,open=false": {
+      "uvlock": true,
+      "model": "minecraft:block/saw_stationary"
+    },
+    "facing=south,in_wall=false,open=true": {
+      "uvlock": true,
+      "model": "minecraft:block/saw"
+    },
+    "facing=south,in_wall=true,open=false": {
+      "uvlock": true,
+      "model": "minecraft:block/saw_stationary"
+    },
+    "facing=south,in_wall=true,open=true": {
+      "uvlock": true,
+      "model": "minecraft:block/saw"
+    },
+    "facing=west,in_wall=false,open=false": {
+      "uvlock": true,
+      "y": 90,
+      "model": "minecraft:block/saw_stationary"
+    },
+    "facing=west,in_wall=false,open=true": {
+      "uvlock": true,
+      "y": 90,
+      "model": "minecraft:block/saw"
+    },
+    "facing=west,in_wall=true,open=false": {
+      "uvlock": true,
+      "y": 90,
+      "model": "minecraft:block/saw_stationary"
+    },
+    "facing=west,in_wall=true,open=true": {
+      "uvlock": true,
+      "y": 90,
+      "model": "minecraft:block/saw"
+    }
+  }
+}

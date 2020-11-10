@@ -20,7 +20,7 @@
   "valtakausi.item.pliers": "Pihdit",
   "valtakausi.item.picklock": "Tiirikka",
 
-  "valtakausi.item.throwing_star": "Heittotähti",
+  "valtakausi.item.throwing_star": "Heittot\u00e4hti",
   "valtakausi.item.boomerang": "Bumerangi",
   "valtakausi.item.football": "Jalkapallo",
 
@@ -28,6 +28,27 @@
   "valtakausi.item.golden_crown": "Kultakruunu",
   "valtakausi.item.topper": "Silinteri",
   "valtakausi.item.steampunk_topper": "Steampunk-silinteri",
+  "valtakausi.item.hay_hat": "Hein\u00e4hattu",
+  "valtakausi.item.small_cowboy_hat": "Pieni cowboy-hattu",
+  "valtakausi.item.wizard_hat": "Velhon hattu",
+  "valtakausi.item.mortarboard": "Akateeminen hattu",
+  "valtakausi.item.beanie": "Pipo",
+  "valtakausi.item.flat_cap": "L\u00e4ts\u00e4",
+  "valtakausi.item.bowler": "Knalli",
+  "valtakausi.item.campero": "Campero",
+  "valtakausi.item.boater": "Olkihattu",
+  "valtakausi.item.shepherd_hat": "Paimenhattu",
+  "valtakausi.item.furry_cap": "Karvalakki",
+  "valtakausi.item.viking_helmet": "Viikinkikyp\u00e4r\u00e4",
+  "valtakausi.item.tyrolean_hat": "Tirorilainen hattu",
+  "valtakausi.item.bear_hat": "Karhuhattu",
+  "valtakausi.item.feather_hat": "Sulkahattu",
+  "valtakausi.item.beret": "Baskeri",
+  "valtakausi.item.cowboy_hat": "Cowboy-hattu",
+  "valtakausi.item.white_cowboy_hat": "Valkoinen cowboy-hattu",
+  "valtakausi.item.flower_crown": "Kukkaseppele",
+  "valtakausi.item.pipe": "Piippu",
+  "valtakausi.item.corinthian_helmet": "Korinttilainen kyp\u00e4r\u00e4",
   
   "block.minecraft.diamond_ore": "Rikkimalmi",
   "block.minecraft.diamond_block": "Rikkikuutio",
@@ -97,6 +118,8 @@
   "block.minecraft.brown_glazed_terracotta": "Piano",
   "block.minecraft.gray_glazed_terracotta": "Shakkilauta",
 
+  "block.minecraft.warped_fence_gate": "Sahanter\u00e4",
 
   "block.minecraft.warped_pressure_plate": "Karhunrauta"
+  
 }
