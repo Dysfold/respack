@@ -43,6 +43,12 @@
 				"stream": false,
 				"attenuation_distance": 20		
 			}]
+	},
+	"block.fence_gate.close": {
+		"replace": "true"
+	},
+	"block.fence_gate.open": {
+		"replace": "true"
 	},  
 	"block.wooden_door.close": {
 		"replace": "true"
@@ -63,9 +69,26 @@
 		  "block/wooden_door/open4"
 		]
 	},
+	"non-silent.fence_gate.close": {
+		"sounds": [
+		  "block/fence_gate/close1",
+		  "block/fence_gate/close2"
+		]
+	  },
+	  "non-silent.fence_gate.open": {
+		"sounds": [
+		  "block/fence_gate/open1",
+		  "block/fence_gate/open2"
+		]
+	  },
 	"custom.lock": {
 		"sounds": [
 		  "custom/lock/lock"
+		]
+	},
+	"custom.saw": {
+		"sounds": [
+		  "custom/saw"
 		]
 	}
 }
