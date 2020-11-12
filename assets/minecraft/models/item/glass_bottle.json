@@ -259,5 +259,9 @@
       "origin": [8, 8, 8],
       "children": [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
     }
-  ]
+  ],
+	"overrides": [
+	  { "predicate": { "custom_model_data": 1}, "model": "cmd/drinks_empty/1_wine_glass"},
+	  { "predicate": { "custom_model_data": 2}, "model": "cmd/drinks_empty/2_mug"}
+	]
 }
