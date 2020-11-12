@@ -2,7 +2,7 @@
 	"parent": "templates/food",
 	"textures": {
 		"0": "custom/block/dark_oak_generic",
-		"1": "item/beetroot_soup",
+		"1": "item/suspicious_stew",
 		"particle": "item/beetroot_soup"
 	},
 	"elements": [
