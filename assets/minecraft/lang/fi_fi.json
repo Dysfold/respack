@@ -49,11 +49,11 @@
   "valtakausi.item.flower_crown": "Kukkaseppele",
   "valtakausi.item.pipe": "Piippu",
   "valtakausi.item.corinthian_helmet": "Korinttilainen kyp\u00e4r\u00e4",
-  
+
   "block.minecraft.diamond_ore": "Rikkimalmi",
   "block.minecraft.diamond_block": "Rikkikuutio",
   "item.minecraft.diamond": "Rikki",
-  
+
   "block.minecraft.dark_prismarine": "Hehkukivimalmi",
 
   "item.minecraft.acacia_boat": "Pajuvene",
@@ -94,8 +94,6 @@
   "item.minecraft.beetroot": "Tupakka",
   "item.minecraft.beetroot_seeds": "Tupakan siemenet",
   "block.minecraft.beetroots": "Tupakka",
-  
-  "container.barrel": "S\u00e4ili\u00f6",
 
   "block.minecraft.prismarine_slab": "Hiekkakivitiililaatta",
   "block.minecraft.prismarine_stairs": "Hiekkakivitiiliportaat",
@@ -109,7 +107,7 @@
   "block.minecraft.crimson_trapdoor": "Mukulakiviluukku",
   "block.minecraft.warped_door": "Kivitiilisalaovi",
   "block.minecraft.warped_trapdoor": "Kivitiililuukku",
-  
+
   "block.minecraft.dark_prismarine_slab": "Jauhomylly",
   "item.minecraft.phantom_membrane": "Jauho",
 
@@ -120,6 +118,41 @@
 
   "block.minecraft.warped_fence_gate": "Sahanter\u00e4",
 
-  "block.minecraft.warped_pressure_plate": "Karhunrauta"
-  
+  "block.minecraft.warped_pressure_plate": "Karhunrauta",
+
+  "container.barrel": "",
+  "container.beacon": "",
+  "container.blast_furnace": "",
+  "container.brewing": "",
+  "container.cartography_table": "",
+  "container.chest": "",
+  "container.chestDouble": "",
+  "container.crafting": "",
+  "container.creative": "",
+  "container.dispenser": "",
+  "container.dropper": "",
+  "container.enchant": "",
+  "container.enchant.clue": "",
+  "container.enchant.lapis.many": "",
+  "container.enchant.lapis.one": "",
+  "container.enchant.level.many": "",
+  "container.enchant.level.one": "",
+  "container.enchant.level.requirement": "",
+  "container.enderchest": "",
+  "container.furnace": "",
+  "container.grindstone_title": "",
+  "container.hopper": "",
+  "container.inventory": "",
+  "container.isLocked": "",
+  "container.lectern": "",
+  "container.loom": "",
+  "container.repair": "",
+  "container.repair.cost": "",
+  "container.repair.expensive": "",
+  "container.shulkerBox": "",
+  "container.shulkerBox.more": "",
+  "container.smoker": "",
+  "container.spectatorCantOpen": "",
+  "container.stonecutter": "",
+  "container.upgrade": ""
 }
