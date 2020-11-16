@@ -1831,7 +1831,7 @@
     "chat.type.team.hover": "Tiimiviesti",
     "chat.type.team.sent": "-> %s <%s> %s",
     "chat.type.team.text": "%s <%s> %s",
-    "chat.type.text": "<%s> %s",
+    "chat.type.text": "[%s] %s",
     "chat.type.text.narrate": "%s sanoo %s",
     "clear.failed.multiple": "Yht\u00e4\u00e4n esinett\u00e4 ei l\u00f6ydetty %s pelaajalta",
     "clear.failed.single": "Yht\u00e4\u00e4n esinett\u00e4 ei l\u00f6ydetty pelaajalta %s",
