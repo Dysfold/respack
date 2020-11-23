@@ -18,6 +18,8 @@ jobs:
           zip -r vk-respack assets/ pack.mcmeta
 
       - name: Get hash
+        env: 
+          ACTIONS_ALLOW_UNSECURE_COMMANDS: true
         run: |
           echo ::set-env name=HASH::$(sha1sum vk-respack.zip | awk '{ print $1 }')
 
