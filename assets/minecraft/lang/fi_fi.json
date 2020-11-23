@@ -120,6 +120,12 @@
 
   "block.minecraft.warped_pressure_plate": "Karhunrauta",
 
+  
+  "item.minecraft.bowl": "Soppakulho",
+  "block.minecraft.dead_tube_coral_fan": "Kulho",
+  "block.minecraft.dead_brain_coral_fan": "Jyvi\u00e4 kulhossa",
+  "block.minecraft.dead_brain_coral": "Jakkara",
+
   "container.barrel": "",
   "container.beacon": "",
   "container.blast_furnace": "",

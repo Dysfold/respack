@@ -1,5 +1,5 @@
 {
-	"credit": "Made with Blockbench",
+	"parent": "block/block",
 	"textures": {
 		"0": "block/barrel_bottom",
 		"particle": "block/barrel_bottom"
