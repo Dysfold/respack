@@ -8,6 +8,9 @@
     { "predicate": { "custom_model_data": 2}, "model": "cmd/misc/2_handcuffs"},
     { "predicate": { "custom_model_data": 3}, "model": "cmd/misc/3_handcuffs_locked"},
     { "predicate": { "custom_model_data": 4}, "model": "cmd/misc/4_key"},
-    { "predicate": { "custom_model_data": 5}, "model": "cmd/misc/5_golden_horn"}
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/misc/5_golden_horn"},
+    { "predicate": { "custom_model_data": 6}, "model": "cmd/misc/6_dough_bread"},
+    { "predicate": { "custom_model_data": 7}, "model": "cmd/misc/7_dough_cookie"},
+    { "predicate": { "custom_model_data": 8}, "model": "cmd/misc/8_dough_pumpkin_pie"}
   ]
 }

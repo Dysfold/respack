@@ -259,6 +259,7 @@
 	],
 	"overrides": [
 	  { "predicate": { "custom_model_data": 1}, "model": "cmd/drinks/1_wine_glass"},
-	  { "predicate": { "custom_model_data": 2}, "model": "cmd/drinks/2_mug"}
+	  { "predicate": { "custom_model_data": 2}, "model": "cmd/drinks/2_mug"},
+	  { "predicate": { "custom_model_data": 3}, "model": "cmd/drinks/3_scoop"}
 	]
   }

@@ -63,6 +63,54 @@
     {
       "predicate": { "custom_model_data": 15 },
       "model": "cmd/hidden/15_empty"
+    },
+    {
+      "predicate": { "custom_model_data": 16 },
+      "model": "cmd/hidden/16_dough_bread"
+    },
+    {
+      "predicate": { "custom_model_data": 17 },
+      "model": "cmd/hidden/17_dough_bread_risen"
+    },
+    {
+      "predicate": { "custom_model_data": 18 },
+      "model": "cmd/hidden/18_dough_cookie"
+    },
+    {
+      "predicate": { "custom_model_data": 19 },
+      "model": "cmd/hidden/19_dough_pumpkin_pie"
+    },
+    {
+      "predicate": { "custom_model_data": 20 },
+      "model": "cmd/hidden/20_lock_door_right"
+    },
+    {
+      "predicate": { "custom_model_data": 21 },
+      "model": "cmd/hidden/21_lock_door_left"
+    },
+    {
+      "predicate": { "custom_model_data": 22 },
+      "model": "cmd/hidden/22_lock_door_right_open"
+    },
+    {
+      "predicate": { "custom_model_data": 23 },
+      "model": "cmd/hidden/23_lock_door_left_open"
+    },
+    {
+      "predicate": { "custom_model_data": 24 },
+      "model": "cmd/hidden/24_lock_trapdoor"
+    },
+    {
+      "predicate": { "custom_model_data": 25 },
+      "model": "cmd/hidden/25_lock_trapdoor_open"
+    },
+    {
+      "predicate": { "custom_model_data": 26 },
+      "model": "cmd/hidden/26_lock_chest"
+    },
+    {
+      "predicate": { "custom_model_data": 27 },
+      "model": "cmd/hidden/27_lock_doublechest"
     }
   ]
 }
