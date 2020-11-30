@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/prismarine_shard"
+  },
+  "overrides":  [
+    { "predicate": { "custom_model_data": 1}, "model": "cmd/money/1_A_0.01"},
+    { "predicate": { "custom_model_data": 2}, "model": "cmd/money/2_A_0.1"},
+    { "predicate": { "custom_model_data": 3}, "model": "cmd/money/3_A_1"},
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/money/4_A_10"},
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/money/5_A_100"},
+    { "predicate": { "custom_model_data": 6}, "model": "cmd/money/6_A_1000"},
+
+    { "predicate": { "custom_model_data": 7}, "model": "cmd/money/7_B_0.01"},
+    { "predicate": { "custom_model_data": 8}, "model": "cmd/money/8_B_0.1"},
+    { "predicate": { "custom_model_data": 9}, "model": "cmd/money/9_B_1"},
+    { "predicate": { "custom_model_data": 10}, "model": "cmd/money/10_B_10"},
+    { "predicate": { "custom_model_data": 11}, "model": "cmd/money/11_B_100"},
+    { "predicate": { "custom_model_data": 12}, "model": "cmd/money/12_B_1000"},
+
+    { "predicate": { "custom_model_data": 13}, "model": "cmd/money/13_C_0.01"},
+    { "predicate": { "custom_model_data": 14}, "model": "cmd/money/14_C_0.1"},
+    { "predicate": { "custom_model_data": 15}, "model": "cmd/money/15_C_1"},
+    { "predicate": { "custom_model_data": 16}, "model": "cmd/money/16_C_10"},
+    { "predicate": { "custom_model_data": 17}, "model": "cmd/money/17_C_100"},
+    { "predicate": { "custom_model_data": 18}, "model": "cmd/money/18_C_1000"},
+
+    { "predicate": { "custom_model_data": 19}, "model": "cmd/money/19_D_0.01"},
+    { "predicate": { "custom_model_data": 20}, "model": "cmd/money/20_D_0.1"},
+    { "predicate": { "custom_model_data": 21}, "model": "cmd/money/21_D_1"},
+    { "predicate": { "custom_model_data": 22}, "model": "cmd/money/22_D_10"},
+    { "predicate": { "custom_model_data": 23}, "model": "cmd/money/23_D_100"},
+    { "predicate": { "custom_model_data": 24}, "model": "cmd/money/24_D_1000"}
+  ]
+}

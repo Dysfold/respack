@@ -1,23 +1,5 @@
 {
-	"textures": {
-		"0": "block/gold_block",
-		"particle": "block/gold_block"
-	},
-	"elements": [
-		{
-			"from": [10, -4, 0],
-			"to": [13, 1, 3],
-			"rotation": {"angle": 0, "axis": "y", "origin": [20, 8, 8]},
-			"faces": {
-				"north": {"uv": [1, 1, 4, 6], "texture": "#0"},
-				"east": {"uv": [0, 0, 3, 5], "texture": "#0"},
-				"south": {"uv": [0, 0, 3, 5], "texture": "#0"},
-				"west": {"uv": [0, 0, 3, 5], "texture": "#0"},
-				"up": {"uv": [0, 0, 3, 3], "texture": "#0"},
-				"down": {"uv": [12, 12, 15, 15], "texture": "#0"}
-			}
-		}
-	],
+	"parent": "cmd/hidden/20_lock_door_right",
 	"display": {
 		"fixed": {
 			"rotation": [90, 0, 90],

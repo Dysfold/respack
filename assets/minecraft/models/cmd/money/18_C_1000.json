@@ -1,0 +1,6 @@
+{
+	"parent": "templates/offset",
+	"textures" : {
+		"layer0": "cmd/money/C_1000"
+	}
+}

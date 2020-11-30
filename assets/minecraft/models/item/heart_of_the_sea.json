@@ -111,6 +111,10 @@
     {
       "predicate": { "custom_model_data": 27 },
       "model": "cmd/hidden/27_lock_doublechest"
+    },
+    {
+      "predicate": { "custom_model_data": 28 },
+      "model": "cmd/hidden/28_lock_lectern"
     }
   ]
 }
