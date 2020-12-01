@@ -1,5 +1,5 @@
 {
-	"parent": "templates/offset",
+	"parent": "item/generated",
 	"textures" : {
 		"layer0": "cmd/money/C_100"
 	}
