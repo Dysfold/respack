@@ -1,0 +1,60 @@
+{
+	"parent": "templates/item_frame",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "custom/item/book",
+		"particle": "custom/item/book"
+	},
+	"elements": [
+		{
+			"from": [4, 0.25, 3],
+			"to": [11, 0.25, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 8.25, 11]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 5, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 5, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 3.5, 5], "texture": "#0"},
+				"down": {"uv": [0, 0, 3.5, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [4, 2.25, 3],
+			"to": [11, 2.25, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 10.25, 11]},
+			"faces": {
+				"north": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
+				"east": {"uv": [0, 0, 5, 0], "texture": "#missing"},
+				"south": {"uv": [0, 0, 3.5, 0], "texture": "#missing"},
+				"west": {"uv": [0, 0, 5, 0], "texture": "#missing"},
+				"up": {"uv": [0, 0, 3.5, 5], "texture": "#0"},
+				"down": {"uv": [0, 0, 3.5, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [11, 0.25, 3],
+			"to": [11, 2.25, 13],
+			"rotation": {"angle": 0, "axis": "x", "origin": [11, 1.25, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 0, 1], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [10.5, 0, 11.5, 5], "rotation": 270, "texture": "#0"},
+				"south": {"uv": [0, 0, 0, 1], "texture": "#0"},
+				"west": {"uv": [10.5, 0, 11.5, 5], "rotation": 90, "texture": "#0"},
+				"up": {"uv": [0, 0, 0, 5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [0, 0, 0, 5], "texture": "#0"}
+			}
+		},
+		{
+			"from": [5, 0.25, 4],
+			"to": [10.5, 2.25, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [13, 8.25, 12]},
+			"faces": {
+				"north": {"uv": [1.5, 13.5, 4.25, 14.5], "texture": "#0"},
+				"east": {"uv": [0, 12.5, 4, 13.5], "texture": "#0"},
+				"south": {"uv": [0, 12.5, 2.75, 13.5], "texture": "#0"},
+				"west": {"uv": [0, 12, 4, 13], "texture": "#0"}
+			}
+		}
+	]
+}
