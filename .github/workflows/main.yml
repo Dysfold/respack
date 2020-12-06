@@ -61,4 +61,6 @@ jobs:
         with:
           webhook_id: ${{ secrets.WEBHOOK_ID }}
           webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
-          args: Uusi versio resurssipaketista on julkaistu \n ${{ github.event.head_commit.message }}
+          args: |
+            Uusi versio resurssipaketista on julkaistu! 
+            > ${{ github.event.head_commit.message }}
