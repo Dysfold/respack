@@ -1,6 +1,6 @@
 {
 	"parent": "item/generated",
 	"textures" : {
-		"layer0": "cmd/money/C_1000"
+		"layer0": "cmd/money/b_0_1"
 	}
 }
