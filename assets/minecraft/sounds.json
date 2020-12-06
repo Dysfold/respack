@@ -90,5 +90,10 @@
 		"sounds": [
 		  "custom/saw"
 		]
+	},
+	"custom.whip": {
+		"sounds": [
+		  "custom/whip"
+		]
 	}
 }

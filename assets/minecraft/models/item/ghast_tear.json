@@ -1,7 +1,7 @@
 {
 	"parent": "item/handheld",
 	"textures" : {
-		"layer0": "cmd/tools/whip"
+		"layer0": "custom/item/whip"
 	},    
 	"display": {
         "thirdperson_righthand": {
@@ -22,5 +22,13 @@
             "rotation": [ 40, -90, -15 ],
             "translation": [ 0, 2.2, -5.5 ]
         }
-    }
+    },
+  "overrides": [
+    { "predicate": { "cooldown": 0.01}, "model": "misc/whip/whip0"},
+    { "predicate": { "cooldown": 0.2}, "model": "misc/whip/whip20"},
+    { "predicate": { "cooldown": 0.3}, "model": "misc/whip/whip30"},
+    { "predicate": { "cooldown": 0.4}, "model": "misc/whip/whip40"},
+    { "predicate": { "cooldown": 0.6}, "model": "misc/whip/whip60"},
+    { "predicate": { "cooldown": 0.8}, "model": "misc/whip/whip80"}
+  ]
 }
