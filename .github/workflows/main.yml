@@ -61,4 +61,7 @@ jobs:
         with:
           webhook_id: ${{ secrets.WEBHOOK_ID }}
           webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
-          args: Uusi versio resurssipaketista on julkaistu https://github.com/Laetta/respack/releases/tag/latest
+          args: |
+            Uusi versio resurssipaketista on julkaistu!
+            Muutokset: 
+            ` ${{ github.event.head_commit.message }} `
