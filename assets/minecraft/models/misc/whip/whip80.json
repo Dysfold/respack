@@ -1,6 +1,0 @@
-{
-	"parent": "templates/whip",
-	"textures" : {
-		"layer0": "custom/item/whip80"
-	}
-}

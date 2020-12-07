@@ -1,5 +1,8 @@
 {
 	"parent": "item/handheld",
+	"textures" : {
+		"layer0": "cmd/tools/whip_animation"
+	},
 	"display": {
         "thirdperson_righthand": {
             "rotation": [ 0, 90, 0 ],

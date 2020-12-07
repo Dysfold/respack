@@ -12,6 +12,8 @@
     { "predicate": { "custom_model_data": 6}, "model": "cmd/tools/6_war_axe"},
     { "predicate": { "custom_model_data": 7}, "model": "cmd/tools/7_spear"},
     { "predicate": { "custom_model_data": 8}, "model": "cmd/tools/8_hammer"},
-    { "predicate": { "custom_model_data": 9}, "model": "cmd/tools/9_pliers"}
+    { "predicate": { "custom_model_data": 9}, "model": "cmd/tools/9_pliers"},
+    { "predicate": { "custom_model_data": 10}, "model": "cmd/tools/10_whip"},
+    { "predicate": { "custom_model_data": 11}, "model": "cmd/tools/11_whip_animation"}
   ]
 }
