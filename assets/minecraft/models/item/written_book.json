@@ -57,5 +57,8 @@
 				"down": {"uv": [9.5, 6.5, 12, 10.5], "rotation": 180, "texture": "#0"}
 			}
 		}
+	],
+	"overrides":  [
+	  { "predicate": { "custom_model_data": 1}, "model": "cmd/books/1_sealed_book"}
 	]
 }
