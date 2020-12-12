@@ -70,6 +70,9 @@
   "block.minecraft.diamond_block": "Rikkikuutio",
   "item.minecraft.diamond": "Rikki",
 
+  "block.minecraft.twisting_vines": "Humalak\u00f6ynn\u00f6s",
+  "block.minecraft.twisting_vines_plant": "Humalak\u00f6ynn\u00f6skasvi",
+
   "block.minecraft.dark_prismarine": "Hehkukivimalmi",
 
   "item.minecraft.acacia_boat": "Pajuvene",
@@ -138,7 +141,7 @@
 
   "block.minecraft.soul_sand": "Turvemulta",
   "item.minecraft.nether_wart": "Vaalea sieni",
-  
+
   "item.minecraft.bowl": "Soppakulho",
   "block.minecraft.dead_tube_coral_fan": "Kulho",
   "block.minecraft.dead_brain_coral_fan": "Jyvi\u00e4 kulhossa",
