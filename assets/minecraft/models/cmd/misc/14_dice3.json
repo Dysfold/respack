@@ -1,0 +1,12 @@
+{
+  "parent": "templates/dice",
+  "textures": {
+    "2": "cmd/misc/dice6",
+    "1": "cmd/misc/dice5",
+    "0": "cmd/misc/dice4",
+    "5": "cmd/misc/dice3",
+    "4": "cmd/misc/dice2",
+    "3": "cmd/misc/dice1",
+    "particle": "cmd/misc/dice6"
+  }
+}

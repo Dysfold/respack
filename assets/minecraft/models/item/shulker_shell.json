@@ -14,6 +14,12 @@
     { "predicate": { "custom_model_data": 8}, "model": "cmd/misc/8_dough_pumpkin_pie"},
     { "predicate": { "custom_model_data": 9}, "model": "cmd/misc/9_sealing_wax"},
     { "predicate": { "custom_model_data": 10}, "model": "cmd/misc/10_money_mold"},
-    { "predicate": { "custom_model_data": 11}, "model": "cmd/misc/11_dried_tobacco"}
+    { "predicate": { "custom_model_data": 11}, "model": "cmd/misc/11_dried_tobacco"},
+    { "predicate": { "custom_model_data": 12}, "model": "cmd/misc/12_dice1"},
+    { "predicate": { "custom_model_data": 13}, "model": "cmd/misc/13_dice2"},
+    { "predicate": { "custom_model_data": 14}, "model": "cmd/misc/14_dice3"},
+    { "predicate": { "custom_model_data": 15}, "model": "cmd/misc/15_dice4"},
+    { "predicate": { "custom_model_data": 16}, "model": "cmd/misc/16_dice5"},
+    { "predicate": { "custom_model_data": 17}, "model": "cmd/misc/17_dice6"}
   ]
 }
