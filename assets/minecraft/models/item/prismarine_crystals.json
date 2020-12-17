@@ -1,5 +1,4 @@
-{
-  "parent": "minecraft:item/generated",
+{  
   "textures": {
     "layer0": "minecraft:item/prismarine_crystals",
     "2": "cmd/cards/card_back",
