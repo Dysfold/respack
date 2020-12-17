@@ -62,6 +62,8 @@
     { "predicate": { "custom_model_data": 52 }, "model": "cmd/cards/52_s13" },
 
     { "predicate": { "custom_model_data": 53 }, "model": "cmd/cards/53_joker1" },
-    { "predicate": { "custom_model_data": 54 }, "model": "cmd/cards/54_joker2" }
+    { "predicate": { "custom_model_data": 54 }, "model": "cmd/cards/54_joker2" },
+
+    { "predicate": { "custom_model_data": 55 }, "model": "cmd/cards/55_empty" }
   ]
 }
