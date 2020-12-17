@@ -1,0 +1,8 @@
+{
+  "parent": "templates/card",
+  "textures": {
+    "2": "cmd/cards/card_back",
+    "particle": "cmd/cards/card_back",
+    "0": "cmd/cards/s9"
+  }
+}
