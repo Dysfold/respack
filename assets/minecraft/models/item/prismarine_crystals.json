@@ -1,8 +1,7 @@
 {  
+  "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/prismarine_crystals",
-    "2": "cmd/cards/card_back",
-    "particle": "cmd/cards/card_back"
+    "layer0": "minecraft:item/prismarine_crystals"
   },
   "overrides": [
     { "predicate": { "custom_model_data": 1 }, "model": "cmd/cards/1_c1" },
@@ -64,6 +63,9 @@
     { "predicate": { "custom_model_data": 53 }, "model": "cmd/cards/53_joker1" },
     { "predicate": { "custom_model_data": 54 }, "model": "cmd/cards/54_joker2" },
 
-    { "predicate": { "custom_model_data": 55 }, "model": "cmd/cards/55_empty" }
+    { "predicate": { "custom_model_data": 55 }, "model": "cmd/cards/55_empty" },
+    { "predicate": { "custom_model_data": 56 }, "model": "cmd/cards/56_deck_full" },
+    { "predicate": { "custom_model_data": 57 }, "model": "cmd/cards/57_deck_half" },
+    { "predicate": { "custom_model_data": 58 }, "model": "cmd/cards/58_deck_low" }
   ]
 }
