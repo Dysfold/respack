@@ -66,6 +66,9 @@
   "vk.pipe": "Piippu",
   "vk.corinthian_helmet": "Korinttilainen kyp\u00e4r\u00e4",
 
+  "vk.deck_of_cards": "Korttipakka",
+  "item.minecraft.prismarine_crystals": "Pelikortti",
+
   "block.minecraft.diamond_ore": "Rikkimalmi",
   "block.minecraft.diamond_block": "Rikkikuutio",
   "item.minecraft.diamond": "Rikki",
@@ -151,8 +154,6 @@
   "item.minecraft.shulker_shell": "Custom item",
   "item.minecraft.heart_of_the_sea": "Piilotettu esine",
   "item.minecraft.diamond_hoe": "Hattu",
-
-  "item.minecraft.prismarine_crystals": "Pelikortti",
 
   "container.barrel": "",
   "container.beacon": "",
