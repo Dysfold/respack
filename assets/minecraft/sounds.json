@@ -94,5 +94,25 @@
       "custom/player/hurt_scream",
       "custom/player/hurt_ouch"
     ]
+  },
+  "event.raid.horn": {
+    "sounds": [
+      {
+        "name": "event/raid/raidhorn_01",
+        "attenuation_distance": 20
+      },
+      {
+        "name": "event/raid/raidhorn_02",
+        "attenuation_distance": 20
+      },
+      {
+        "name": "event/raid/raidhorn_03",
+        "attenuation_distance": 20
+      },
+      {
+        "name": "event/raid/raidhorn_04",
+        "attenuation_distance": 20
+      }
+    ]
   }
 }
