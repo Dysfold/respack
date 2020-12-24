@@ -1,0 +1,6 @@
+{
+	"parent": "templates/blade",
+	"textures" : {
+		"layer0": "cmd/blacksmith/hammer"
+	}
+}

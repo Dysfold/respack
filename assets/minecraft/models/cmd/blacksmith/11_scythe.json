@@ -1,0 +1,6 @@
+{
+	"parent": "templates/blade_large",
+	"textures" : {
+		"layer0": "cmd/blacksmith/scythe"
+	}
+}
