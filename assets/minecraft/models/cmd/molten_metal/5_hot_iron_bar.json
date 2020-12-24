@@ -1,6 +1,6 @@
 {
 	"parent": "templates/generated_large",
 	"textures" : {
-		"layer0": "cmd/molten_metal/hot_iron_blade"
+		"layer0": "cmd/molten_metal/hot_iron_bar"
 	}
 }

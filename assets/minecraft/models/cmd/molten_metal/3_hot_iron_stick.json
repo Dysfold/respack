@@ -1,5 +1,5 @@
 {
-	"parent": "item/generated",
+	"parent": "templates/generated_large",
 	"textures" : {
 		"layer0": "cmd/molten_metal/hot_iron_stick"
 	}

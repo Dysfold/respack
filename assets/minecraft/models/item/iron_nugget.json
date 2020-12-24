@@ -7,6 +7,8 @@
     { "predicate": { "custom_model_data": 1}, "model": "cmd/molten_metal/1_hot_iron_ingot"},
     { "predicate": { "custom_model_data": 2}, "model": "cmd/molten_metal/2_hot_iron_blade"},
     { "predicate": { "custom_model_data": 3}, "model": "cmd/molten_metal/3_hot_iron_stick"},
-    { "predicate": { "custom_model_data": 4}, "model": "cmd/molten_metal/4_hot_iron_plate"}
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/molten_metal/4_hot_iron_plate"},
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/molten_metal/5_hot_iron_bar"},
+    { "predicate": { "custom_model_data": 6}, "model": "cmd/molten_metal/6_hot_iron_nugget"}
   ]
 }
