@@ -14,6 +14,12 @@
     { "predicate": { "custom_model_data": 8}, "model": "cmd/tools/8_hammer"},
     { "predicate": { "custom_model_data": 9}, "model": "cmd/tools/9_pliers"},
     { "predicate": { "custom_model_data": 10}, "model": "cmd/tools/10_whip"},
-    { "predicate": { "custom_model_data": 11}, "model": "cmd/tools/11_whip_animation"}
+    { "predicate": { "custom_model_data": 11}, "model": "cmd/tools/11_whip_animation"},
+    { "predicate": { "custom_model_data": 12}, "model": "cmd/tools/12_pliers_and_iron_bar"},
+    { "predicate": { "custom_model_data": 13}, "model": "cmd/tools/13_pliers_and_iron_blade"},
+    { "predicate": { "custom_model_data": 14}, "model": "cmd/tools/14_pliers_and_iron_ingot"},
+    { "predicate": { "custom_model_data": 15}, "model": "cmd/tools/15_pliers_and_iron_nugget"},
+    { "predicate": { "custom_model_data": 16}, "model": "cmd/tools/16_pliers_and_iron_plate"},
+    { "predicate": { "custom_model_data": 17}, "model": "cmd/tools/17_pliers_and_iron_stick"}
   ]
 }

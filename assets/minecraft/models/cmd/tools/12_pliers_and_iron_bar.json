@@ -1,0 +1,6 @@
+{
+	"parent": "templates/active_pliers",
+	"textures" : {
+		"layer0": "cmd/tools/pliers_and_iron_bar"
+	}
+}
