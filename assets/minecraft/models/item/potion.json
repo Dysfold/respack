@@ -2,7 +2,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "item/potion"
+		"1": "item/potion",
+		"particle": "item/glass_bottle"
 	},
 	"elements": [
 		{

@@ -2,7 +2,8 @@
 	"texture_size": [64, 64],
 	"parent": "cmd/drinks_empty/1_wine_glass",
 	"textures": {
-		"1": "item/potion"
+		"1": "item/potion",
+		"particle": "item/glass_bottle"
 	},
 	"elements": [
 		{
