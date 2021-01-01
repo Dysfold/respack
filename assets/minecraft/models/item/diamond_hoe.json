@@ -29,6 +29,7 @@
     { "predicate": { "custom_model_data": 23}, "model": "cmd/hats/23_flower_crown"},
     { "predicate": { "custom_model_data": 24}, "model": "cmd/hats/24_pipe"},
     { "predicate": { "custom_model_data": 25}, "model": "cmd/hats/25_corinthian_helmet"},
-    { "predicate": { "custom_model_data": 26}, "model": "cmd/hats/26_viking_helmet_2"}
+    { "predicate": { "custom_model_data": 26}, "model": "cmd/hats/26_viking_helmet_2"},
+    { "predicate": { "custom_model_data": 27}, "model": "cmd/hats/27_wolf_hat"}
   ]
 }
