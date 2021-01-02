@@ -1,7 +1,8 @@
 {
-  "parent": "minecraft:item/handheld",
+  "parent": "item/generated",
   "textures": {
-    "layer0": "minecraft:item/diamond_hoe"
+      "layer0": "item/leather_boots",
+      "layer1": "item/leather_boots_overlay"
   },
   "overrides": [
     { "predicate": { "custom_model_data": 1}, "model": "cmd/hats/1_tricorne"},
@@ -25,7 +26,7 @@
     { "predicate": { "custom_model_data": 19}, "model": "cmd/hats/19_feather_hat"},
     { "predicate": { "custom_model_data": 20}, "model": "cmd/hats/20_beret"},
     { "predicate": { "custom_model_data": 21}, "model": "cmd/hats/21_cowboy_hat"},
-    { "predicate": { "custom_model_data": 22}, "model": "cmd/hats/22_white_cowboy_hat"},
+    { "predicate": { "custom_model_data": 22}, "model": "cmd/hats/22_large_cowboy_hat"},
     { "predicate": { "custom_model_data": 23}, "model": "cmd/hats/23_flower_crown"},
     { "predicate": { "custom_model_data": 24}, "model": "cmd/hats/24_pipe"},
     { "predicate": { "custom_model_data": 25}, "model": "cmd/hats/25_corinthian_helmet"},

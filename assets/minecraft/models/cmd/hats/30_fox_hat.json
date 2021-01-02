@@ -1,6 +1,1 @@
-{
-  "parent": "templates/wolf_hat",
-  "textures": {
-    "1": "cmd/hats/fox_hat"
-  }
-}
+{"parent":"templates/wolf_hat","textures":{"1":"cmd/hats/fox_hat"}}
