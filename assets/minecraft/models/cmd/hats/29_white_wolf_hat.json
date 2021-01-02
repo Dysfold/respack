@@ -1,6 +1,6 @@
 {
   "parent": "templates/wolf_hat",
   "textures": {
-    "1": "cmd/hats/wolf_hat"
+    "1": "cmd/hats/white_wolf_hat"
   }
 }
