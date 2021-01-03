@@ -34,6 +34,7 @@
     { "predicate": { "custom_model_data": 27}, "model": "cmd/hats/27_wolf_hat"},
     { "predicate": { "custom_model_data": 28}, "model": "cmd/hats/28_black_wolf_hat"},
     { "predicate": { "custom_model_data": 29}, "model": "cmd/hats/29_white_wolf_hat"},
-    { "predicate": { "custom_model_data": 30}, "model": "cmd/hats/30_fox_hat"}
+    { "predicate": { "custom_model_data": 30}, "model": "cmd/hats/30_fox_hat"},
+    { "predicate": { "custom_model_data": 31}, "model": "cmd/hats/31_feather_headband"}
   ]
 }
