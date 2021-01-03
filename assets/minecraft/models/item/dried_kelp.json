@@ -9,6 +9,19 @@
     { "predicate": { "custom_model_data": 3 }, "model": "cmd/foods/3_fried_egg" },
     { "predicate": { "custom_model_data": 4 }, "model": "cmd/foods/4_mashed_potatoes" },
     { "predicate": { "custom_model_data": 5 }, "model": "cmd/foods/5_banana" },
-    { "predicate": { "custom_model_data": 6 }, "model": "cmd/foods/6_ham" }
+    { "predicate": { "custom_model_data": 6 }, "model": "cmd/foods/6_ham" },
+    { "predicate": { "custom_model_data": 7 }, "model": "cmd/foods/7_chocolate_cookie" },
+    { "predicate": { "custom_model_data": 8 }, "model": "cmd/foods/8_chocolate" },
+    { "predicate": { "custom_model_data": 9 }, "model": "cmd/foods/9_ginger" },
+
+    { "predicate": { "custom_model_data": 10 }, "model": "cmd/foods/10_berry_pie" },
+    { "predicate": { "custom_model_data": 11 }, "model": "cmd/foods/11_potato_pie" },
+    { "predicate": { "custom_model_data": 12 }, "model": "cmd/foods/12_fish_pie" },
+    { "predicate": { "custom_model_data": 13 }, "model": "cmd/foods/13_apple_pie" },
+    { "predicate": { "custom_model_data": 14 }, "model": "cmd/foods/14_chocolate_pie" },
+    { "predicate": { "custom_model_data": 15 }, "model": "cmd/foods/15_meat_pie" },
+    { "predicate": { "custom_model_data": 16 }, "model": "cmd/foods/16_chicken_pie" },
+    { "predicate": { "custom_model_data": 17 }, "model": "cmd/foods/17_cream_pie" },
+    { "predicate": { "custom_model_data": 18 }, "model": "cmd/foods/18_cheese_pie" }
   ]
 }

@@ -1,0 +1,7 @@
+{
+  "parent": "templates/pie",
+  "textures": {
+    "0": "cmd/foods/potato_pie",
+    "particle": "cmd/foods/potato_pie"
+  }
+}
