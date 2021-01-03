@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/dried_kelp"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "cmd/foods/1_cheese" },
+    { "predicate": { "custom_model_data": 2 }, "model": "cmd/foods/2_meatballs" },
+    { "predicate": { "custom_model_data": 3 }, "model": "cmd/foods/3_fried_egg" },
+    { "predicate": { "custom_model_data": 4 }, "model": "cmd/foods/4_mashed_potatoes" },
+    { "predicate": { "custom_model_data": 5 }, "model": "cmd/foods/5_banana" },
+    { "predicate": { "custom_model_data": 6 }, "model": "cmd/foods/6_ham" }
+  ]
+}
