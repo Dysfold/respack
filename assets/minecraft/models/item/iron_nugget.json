@@ -1,7 +1,7 @@
 {
   "parent": "minecraft:item/generated",
   "textures": {
-    "layer0": "minecraft:item/iron_ingot"
+    "layer0": "minecraft:item/iron_nugget"
   },
   "overrides":  [
     { "predicate": { "custom_model_data": 1}, "model": "cmd/molten_metal/1_hot_iron_ingot"},

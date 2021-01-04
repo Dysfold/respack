@@ -1,0 +1,8 @@
+{
+  "parent": "templates/mask",
+  "textures": {
+    "0": "cmd/hats/blackstone_mask",
+    "1": "block/light_gray_wool",
+    "particle": "cmd/hats/blackstone_mask"
+  }
+}

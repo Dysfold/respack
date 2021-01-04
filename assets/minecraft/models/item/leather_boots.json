@@ -5,6 +5,7 @@
       "layer1": "item/leather_boots_overlay"
   },
   "overrides": [
+    { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/test"},
     { "predicate": { "custom_model_data": 1}, "model": "cmd/hats/1_tricorne"},
     { "predicate": { "custom_model_data": 2}, "model": "cmd/hats/2_golden_crown"},
     { "predicate": { "custom_model_data": 3}, "model": "cmd/hats/3_topper"},
@@ -36,6 +37,9 @@
     { "predicate": { "custom_model_data": 29}, "model": "cmd/hats/29_white_wolf_hat"},
     { "predicate": { "custom_model_data": 30}, "model": "cmd/hats/30_fox_hat"},
     { "predicate": { "custom_model_data": 31}, "model": "cmd/hats/31_feather_headband"},
-    { "predicate": { "custom_model_data": 32}, "model": "cmd/hats/32_plague_mask"}
+    { "predicate": { "custom_model_data": 32}, "model": "cmd/hats/32_plague_mask"},
+    { "predicate": { "custom_model_data": 33}, "model": "cmd/hats/33_blackstone_mask"},
+    { "predicate": { "custom_model_data": 34}, "model": "cmd/hats/34_skull_mask"},
+    { "predicate": { "custom_model_data": 35}, "model": "cmd/hats/35_cage_mask"}
   ]
 }
