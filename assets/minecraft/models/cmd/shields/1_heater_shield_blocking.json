@@ -1,0 +1,28 @@
+{
+  "parent": "cmd/shields/1_heater_shield_model",
+  "gui_light": "front",
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [50, -37.5, -1.5],
+      "translation": [3.5, -3, -3.25]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, 0, 5],
+      "translation": [-7, -2, 5],
+      "scale": [0.6, 0.6, 0.6]
+    },
+    "ground": {
+      "rotation": [90, 0, 0],
+      "scale": [0.25, 0.25, 0.25]
+    },
+    "gui": {
+      "rotation": [15, 150, 5],
+      "translation": [0, -2, 0],
+      "scale": [0.65, 0.65, 0.65]
+    },
+    "fixed": {
+      "translation": [0, -2.5, 0],
+      "scale": [0.8, 0.8, 0.8]
+    }
+  }
+}

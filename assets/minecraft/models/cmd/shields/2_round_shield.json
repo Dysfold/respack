@@ -1,5 +1,5 @@
 {
-  "parent": "cmd/shields/1_round_shield_model",
+  "parent": "cmd/shields/2_round_shield_model",
   "gui_light": "front",
   "display": {
     "thirdperson_righthand": {

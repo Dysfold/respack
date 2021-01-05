@@ -49,11 +49,27 @@
     },
     {
       "predicate": { "custom_model_data": 1 },
-      "model": "cmd/shields/1_round_shield"
+      "model": "cmd/shields/1_heater_shield"
     },
     {
       "predicate": { "custom_model_data": 1, "blocking": 1 },
-      "model": "cmd/shields/1_round_shield_blocking"
+      "model": "cmd/shields/1_heater_shield_blocking"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "cmd/shields/2_round_shield"
+    },
+    {
+      "predicate": { "custom_model_data": 2, "blocking": 1 },
+      "model": "cmd/shields/2_round_shield_blocking"
+    },
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "cmd/shields/3_scutum_shield"
+    },
+    {
+      "predicate": { "custom_model_data": 3, "blocking": 1 },
+      "model": "cmd/shields/3_scutum_shield_blocking"
     }
   ]
 }
