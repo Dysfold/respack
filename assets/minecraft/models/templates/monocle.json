@@ -1,0 +1,28 @@
+{
+  "parent": "templates/hat",
+  "gui_light": "side",
+  "display": {
+    "head": {
+      "translation": [0, 21, 0],
+      "scale": [1.82, 1.82, 1.82]
+    },
+    "thirdperson_righthand": {
+      "translation": [1.75, 14.25, 4]
+    },
+    "firstperson_righthand": {
+      "translation": [3, 11, 0]
+    },
+    "ground": {
+      "translation": [0, 14, 0]
+    },
+    "gui": {
+      "rotation": [15, 150, 0],
+      "translation": [-2, 40, 0],
+      "scale": [3, 3, 3]
+    },
+    "fixed": {
+      "translation": [3.25, 26, 5.75],
+      "scale": [2, 2, 2]
+    }
+  }
+}

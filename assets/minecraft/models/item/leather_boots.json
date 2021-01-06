@@ -40,6 +40,10 @@
     { "predicate": { "custom_model_data": 32}, "model": "cmd/hats/32_plague_mask"},
     { "predicate": { "custom_model_data": 33}, "model": "cmd/hats/33_blackstone_mask"},
     { "predicate": { "custom_model_data": 34}, "model": "cmd/hats/34_skull_mask"},
-    { "predicate": { "custom_model_data": 35}, "model": "cmd/hats/35_cage_mask"}
+    { "predicate": { "custom_model_data": 35}, "model": "cmd/hats/35_cage_mask"},
+    { "predicate": { "custom_model_data": 36}, "model": "cmd/hats/36_monocle"},
+    { "predicate": { "custom_model_data": 37}, "model": "cmd/hats/37_monocle_upper"},
+    { "predicate": { "custom_model_data": 38}, "model": "cmd/hats/38_monocle_small_upper"},
+    { "predicate": { "custom_model_data": 39}, "model": "cmd/hats/39_monocle_small"}
   ]
 }
