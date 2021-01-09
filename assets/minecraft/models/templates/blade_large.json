@@ -1,17 +1,22 @@
 {
   "parent": "templates/blade",
-	"display": {
-		"thirdperson_righthand": {
-			"rotation": [0, 0, 45],
-			"translation": [0, 0, 0],
-			"scale": [1.5, 1.5, 1]
-		},
-		"gui": {
-			"scale": [1.4, 1.4, 1]
-		},
-		"fixed": {
-			"scale": [1.5, 1.5, 1],
-			"rotation": [0, 180, 0]
-		}
-	}
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, 0, 45],
+      "translation": [0, 0, 0],
+      "scale": [1.5, 1.5, 1]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 0, -45],
+      "translation": [0, 0, 0],
+      "scale": [1.5, 1.5, 1]
+    },
+    "gui": {
+      "scale": [1.4, 1.4, 1]
+    },
+    "fixed": {
+      "scale": [1.5, 1.5, 1],
+      "rotation": [0, 180, 0]
+    }
+  }
 }
