@@ -95,6 +95,12 @@
       "custom/player/hurt_ouch"
     ]
   },
+  "custom.card": {
+    "sounds": ["custom/cards/card"]
+  },
+  "custom.shuffle": {
+    "sounds": ["custom/cards/shuffle"]
+  },
   "event.raid.horn": {
     "sounds": [
       {
