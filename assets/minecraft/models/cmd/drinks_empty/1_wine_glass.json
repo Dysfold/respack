@@ -1,7 +1,8 @@
 {
   "texture_size": [64, 64],
   "textures": {
-    "1": "item/potion"
+    "1": "item/potion",
+    "particle": "block/glass"
   },
   "elements": [
     {
