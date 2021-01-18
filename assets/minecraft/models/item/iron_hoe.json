@@ -20,6 +20,7 @@
     { "predicate": { "custom_model_data": 14}, "model": "cmd/tools/14_pliers_and_iron_ingot"},
     { "predicate": { "custom_model_data": 15}, "model": "cmd/tools/15_pliers_and_iron_nugget"},
     { "predicate": { "custom_model_data": 16}, "model": "cmd/tools/16_pliers_and_iron_plate"},
-    { "predicate": { "custom_model_data": 17}, "model": "cmd/tools/17_pliers_and_iron_stick"}
+    { "predicate": { "custom_model_data": 17}, "model": "cmd/tools/17_pliers_and_iron_stick"},
+    { "predicate": { "custom_model_data": 18}, "model": "cmd/tools/18_war_hammer"}
   ]
 }
