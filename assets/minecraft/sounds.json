@@ -101,6 +101,10 @@
   "custom.shuffle": {
     "sounds": ["custom/cards/shuffle"]
   },
+  "custom.clap": {
+    "sounds": ["custom/player/clap"],
+    "attenuation_distance": 20
+  },
   "event.raid.horn": {
     "sounds": [
       {
