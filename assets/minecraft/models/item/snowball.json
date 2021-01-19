@@ -15,10 +15,6 @@
     {
       "predicate": { "custom_model_data": 3 },
       "model": "cmd/throwables/3_football"
-    },
-    {
-      "predicate": { "custom_model_data": 4 },
-      "model": "cmd/throwables/4_bomb"
     }
   ]
 }
