@@ -1,5 +1,5 @@
 {
-  "parent": "cmd/drinks/1_wine_glass",
+  "parent": "cmd/drinks/4_glass_mug",
 	"textures": {
 		"0": "custom/item/bottle_glass",
 		"1": "custom/item/empty",
