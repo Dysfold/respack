@@ -2,6 +2,7 @@
 	"parent": "templates/corpse",
 	"textures": {
 		"1": "cmd/hidden/corpse",
+		"2": "cmd/hidden/wound",
 		"particle": "cmd/hidden/corpse"
 	},
 	"elements": [
@@ -70,13 +71,21 @@
 				"up": {"uv": [5, 5, 7, 8], "texture": "#1"},
 				"down": {"uv": [8, 5, 10, 8], "rotation": 180, "texture": "#1"}
 			}
+		},
+		{
+			"from": [6, 3.2, 5],
+			"to": [10, 3.2, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [14, 11.2, 13]},
+			"faces": {
+				"up": {"uv": [0, 0, 16, 16], "texture": "#2"}
+			}
 		}
 	],
 	"groups": [
 		{
 			"name": "corpse",
 			"origin": [8, 8, 8],
-			"children": [0, 1, 2, 3, 4]
+			"children": [0, 1, 2, 3, 4, 5]
 		}
 	]
 }

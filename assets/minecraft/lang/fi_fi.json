@@ -133,6 +133,12 @@
   "vk.deck_of_cards": "Korttipakka",
   "item.minecraft.prismarine_crystals": "Pelikortti",
 
+
+  "item.minecraft.potion.effect.water": "Vesi",
+  "item.minecraft.potion.effect.thick": "Likainen vesi",
+  "item.minecraft.potion.effect.mundane": "Kirkas vesi",
+  "item.minecraft.potion.effect.awkward": "Suolainen vesi",
+
   "item.minecraft.blaze_rod": "Metallinen osa",
 
   "block.minecraft.diamond_ore": "Rikkimalmi",

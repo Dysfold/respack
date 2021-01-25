@@ -1,0 +1,15 @@
+{
+    "parent": "block/block",
+    "display": {
+		"thirdperson_righthand": {
+			"rotation": [90, -180, 0],
+			"translation": [-6, 6.25, 23.5],
+			"scale": [2, 2, 2]
+		},
+		"fixed": {
+			"rotation": [-90, 0, 0],
+			"translation": [0, 16, 6],
+			"scale": [4, 4, 4]
+		}
+	}
+}
