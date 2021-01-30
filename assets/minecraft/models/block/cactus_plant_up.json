@@ -1,8 +1,8 @@
 {
 	"textures": {
-		"0": "custom/block/cactus_plant",
-		"1": "custom/block/cactus_plant_top",
-		"particle": "custom/block/cactus_plant"
+		"0": "custom/block/cactus/cactus_plant",
+		"1": "custom/block/cactus/cactus_plant_top",
+		"particle": "custom/block/cactus/cactus_plant"
 	},
 	"elements": [
 		{
