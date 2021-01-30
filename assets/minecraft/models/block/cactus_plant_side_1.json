@@ -1,0 +1,52 @@
+{
+	"textures": {
+		"0": "custom/block/cactus_plant_side",
+		"1": "custom/block/cactus_plant_top",
+		"particle": "custom/block/cactus_plant_side"
+	},
+	"elements": [
+		{
+			"from": [0, 13, 2],
+			"to": [3, 13, 14],
+			"faces": {
+				"up": {"uv": [2, 0, 14, 3], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 2, 13],
+			"to": [3, 14, 13],
+			"faces": {
+				"south": {"uv": [2, 0, 14, 3], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 2, 3],
+			"to": [3, 14, 3],
+			"faces": {
+				"north": {"uv": [2, 0, 14, 3], "rotation": 90, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 3, 2],
+			"to": [3, 3, 14],
+			"faces": {
+				"down": {"uv": [2, 0, 14, 3], "rotation": 270, "texture": "#0"}
+			}
+		},
+		{
+			"from": [0, 3, 3],
+			"to": [3, 13, 13],
+			"faces": {
+				"west": {"uv": [3, 3, 13, 13], "rotation": 90, "texture": "#1"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "side",
+			"origin": [11, 8, 11],
+			"children": [0, 1, 2, 3, 4]
+		}
+	]
+}
