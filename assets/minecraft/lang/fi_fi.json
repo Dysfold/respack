@@ -232,6 +232,10 @@
 
   "block.minecraft.end_portal_frame": "Spawn-kuutio",
 
+  "block.minecraft.chorus_flower": "Kaktuskukka",
+  "block.minecraft.chorus_plant": "Er\u00e4maakaktus",
+  "block.minecraft.end_stone": "Er\u00e4maahiekka",
+
   "container.barrel": "",
   "container.beacon": "",
   "container.blast_furnace": "",
