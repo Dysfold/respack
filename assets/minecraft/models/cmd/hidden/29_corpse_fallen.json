@@ -9,9 +9,9 @@
 	"elements": [
 		{
 			"name": "Cube",
-			"from": [6, 1, 10],
-			"to": [8, 3, 14],
-			"rotation": {"angle": -22.5, "axis": "y", "origin": [7, 2, 10]},
+			"from": [6, 1.075, 10],
+			"to": [8, 3.075, 14],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [7, 2.075, 10]},
 			"faces": {
 				"north": {"uv": [1, 4, 2, 5], "texture": "#1"},
 				"east": {"uv": [2, 5, 3, 7], "rotation": 90, "texture": "#1"},

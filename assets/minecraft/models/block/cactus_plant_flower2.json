@@ -1,0 +1,9 @@
+{
+	"parent": "block/cactus_plant_flower",
+	"textures": {
+		"2": "custom/block/cactus/cactus_plant_top",
+		"3": "custom/block/cactus/cactus_head",
+		"4": "custom/block/cactus/cactus_flower2",
+		"particle": "custom/block/cactus/cactus_plant_top"
+	}
+}
