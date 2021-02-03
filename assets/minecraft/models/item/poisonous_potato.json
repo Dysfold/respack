@@ -22,6 +22,9 @@
     { "predicate": { "custom_model_data": 15 }, "model": "cmd/foods/15_meat_pie" },
     { "predicate": { "custom_model_data": 16 }, "model": "cmd/foods/16_chicken_pie" },
     { "predicate": { "custom_model_data": 17 }, "model": "cmd/foods/17_cream_pie" },
-    { "predicate": { "custom_model_data": 18 }, "model": "cmd/foods/18_cheese_pie" }
+    { "predicate": { "custom_model_data": 18 }, "model": "cmd/foods/18_cheese_pie" },
+
+    { "predicate": { "custom_model_data": 19 }, "model": "cmd/foods/19_caramel_apple" },
+    { "predicate": { "custom_model_data": 20 }, "model": "cmd/foods/20_cherry" }
   ]
 }
