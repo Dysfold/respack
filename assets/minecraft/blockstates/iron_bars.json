@@ -1,0 +1,25 @@
+{
+  "multipart": [
+    { "apply": { "model": "block/iron_bars" } },
+    {
+      "when": { "north": false, "east": false, "south": false, "west": false },
+      "apply": { "model": "block/iron_bars" }
+    },
+    {
+      "when": { "north": true },
+      "apply": { "model": "block/iron_bars_north_west" }
+    },
+    {
+      "when": { "east": true },
+      "apply": { "model": "block/iron_bars_east_south", "y": 270 }
+    },
+    {
+      "when": { "south": true },
+      "apply": { "model": "block/iron_bars_east_south" }
+    },
+    {
+      "when": { "west": true },
+      "apply": { "model": "block/iron_bars_north_west", "y": 270 }
+    }
+  ]
+}
