@@ -49,6 +49,10 @@
       }
     ]
   },
+  "custom.heartbeat": {
+    "category": "player",
+    "sounds": ["custom/player/heartbeat"]
+  },
   "block.fence_gate.close": {
     "replace": "true"
   },
