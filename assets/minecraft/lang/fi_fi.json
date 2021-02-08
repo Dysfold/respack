@@ -129,10 +129,13 @@
   "vk.chicken_pie": "Kanapiirakka",
   "vk.cream_pie": "Kermapiirakka",
   "vk.cheese_pie": "Juustopiirakka",
+  "vk.caramel_apple": "Karamellisoitu omena",
+  "vk.cherry": "Kirsikka",
+
+  "vk.speaker_stick": "Puhujankeppi",
 
   "vk.deck_of_cards": "Korttipakka",
   "item.minecraft.prismarine_crystals": "Pelikortti",
-
 
   "item.minecraft.potion.effect.water": "Vesi",
   "item.minecraft.potion.effect.thick": "Likainen vesi",
@@ -150,6 +153,16 @@
 
   "block.minecraft.dead_brain_coral_block": "Hehkukivimalmi",
   "block.minecraft.dead_bubble_coral_block": "Hopeamalmi",
+
+  "block.minecraft.weeping_vines": "K\u00f6ysi",
+  "block.minecraft.weeping_vines_plant": "K\u00f6ysi",
+
+  "block.minecraft.polished_andesite": "Andesiittitiili",
+  "block.minecraft.polished_diorite": "Dioriittitiili",
+  "block.minecraft.polished_granite": "Graniittitiili",
+  "block.minecraft.polished_andesite_slab": "Andesiittitiililaatta",
+  "block.minecraft.polished_diorite_slab": "Dioriittitiililaatta",
+  "block.minecraft.polished_granite_slab": "Graniittitiililaatta",
 
   "item.minecraft.acacia_boat": "Pajuvene",
   "block.minecraft.acacia_button": "Pajunappi",
