@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:block/cube_all",
   "textures": {
-    "all": "minecraft:block/andesite_smooth"
+    "all": "minecraft:block/andesite_bricks_small"
   }
 }
