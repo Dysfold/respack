@@ -44,6 +44,7 @@
     { "predicate": { "custom_model_data": 36}, "model": "cmd/hats/36_monocle"},
     { "predicate": { "custom_model_data": 37}, "model": "cmd/hats/37_monocle_upper"},
     { "predicate": { "custom_model_data": 38}, "model": "cmd/hats/38_monocle_small_upper"},
-    { "predicate": { "custom_model_data": 39}, "model": "cmd/hats/39_monocle_small"}
+    { "predicate": { "custom_model_data": 39}, "model": "cmd/hats/39_monocle_small"},
+    { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/1000_test"}
   ]
 }
