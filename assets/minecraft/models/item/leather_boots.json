@@ -45,6 +45,17 @@
     { "predicate": { "custom_model_data": 37}, "model": "cmd/hats/37_monocle_upper"},
     { "predicate": { "custom_model_data": 38}, "model": "cmd/hats/38_monocle_small_upper"},
     { "predicate": { "custom_model_data": 39}, "model": "cmd/hats/39_monocle_small"},
+    { "predicate": { "custom_model_data": 40}, "model": "cmd/hats/40_horse_white"},
+    { "predicate": { "custom_model_data": 41}, "model": "cmd/hats/41_horse_gray"},
+    { "predicate": { "custom_model_data": 42}, "model": "cmd/hats/42_horse_brown"},
+    { "predicate": { "custom_model_data": 43}, "model": "cmd/hats/43_horse_black"},
+    { "predicate": { "custom_model_data": 44}, "model": "cmd/hats/44_horse_chestnut"},
+    { "predicate": { "custom_model_data": 45}, "model": "cmd/hats/45_horse_creamy"},
+    { "predicate": { "custom_model_data": 46}, "model": "cmd/hats/46_horse_darkbrown"},
+    { "predicate": { "custom_model_data": 47}, "model": "cmd/hats/47_horse_skeleton"},
+    { "predicate": { "custom_model_data": 48}, "model": "cmd/hats/48_horse_zombie"},
+    { "predicate": { "custom_model_data": 49}, "model": "cmd/hats/49_horse_mule"},
+    { "predicate": { "custom_model_data": 50}, "model": "cmd/hats/50_horse_donkey"},
     { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/1000_test"}
   ]
 }
