@@ -1,0 +1,34 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "templates/hat",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "entity/horse/horse_black"
+	},
+	"elements": [
+		{
+			"from": [12, -7.5, 4.5],
+			"to": [12, 0.5, 11.7],
+			"faces": {
+				"east": {"uv": [6.5, 2.25, 8.75, 4.5], "texture": "#1"},
+				"west": {"uv": [11.25, 2.25, 13.5, 4.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, 0.5, 4.5],
+			"to": [12, 0.5, 11.7],
+			"faces": {
+				"up": {"uv": [8.75, 0, 11.25, 2.25], "texture": "#1"},
+				"down": {"uv": [8.75, 2.25, 11.25, 0], "texture": "#1"}
+			}
+		},
+		{
+			"from": [4, -7.5, 4.5],
+			"to": [4, 0.5, 11.7],
+			"faces": {
+				"east": {"uv": [6.5, 2.25, 8.75, 4.5], "texture": "#1"},
+				"west": {"uv": [11.25, 2.25, 13.5, 4.5], "texture": "#1"}
+			}
+		}
+	]
+}
