@@ -21,9 +21,6 @@
     { "predicate": { "custom_model_data": 15}, "model": "cmd/misc/15_dice4"},
     { "predicate": { "custom_model_data": 16}, "model": "cmd/misc/16_dice5"},
     { "predicate": { "custom_model_data": 17}, "model": "cmd/misc/17_dice6"},
-    { "predicate": { "custom_model_data": 18}, "model": "cmd/misc/18_bomb"},
-    { "predicate": { "custom_model_data": 19}, "model": "cmd/misc/19_key1"},
-    { "predicate": { "custom_model_data": 20}, "model": "cmd/misc/20_key2"},
-    { "predicate": { "custom_model_data": 21}, "model": "cmd/misc/21_key3"}
+    { "predicate": { "custom_model_data": 18}, "model": "cmd/misc/18_tooth"}
   ]
 }

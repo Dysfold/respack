@@ -1,6 +1,0 @@
-{
-	"parent": "item/generated.vanilla",
-	"textures" : {
-		"layer0": "cmd/misc/bomb"
-	}
-}
