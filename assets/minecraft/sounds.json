@@ -53,6 +53,9 @@
     "category": "player",
     "sounds": ["custom/player/heartbeat"]
   },
+  "custom.tinnitus": {
+    "sounds": ["custom/player/tinnitus"]
+  },
   "block.fence_gate.close": {
     "replace": "true"
   },
