@@ -1,1 +1,1 @@
-{"parent":"templates/horse_hat","textures":{"1":"entity/horse/horse_gray"}}
+{"parent":"templates/horse_hat","textures":{"1":"entity/horse/horse_gray","particle":"entity/horse/horse_gray"}}

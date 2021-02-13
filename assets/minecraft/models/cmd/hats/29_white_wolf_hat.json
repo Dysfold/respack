@@ -1,1 +1,1 @@
-{"parent":"templates/wolf_hat","textures":{"1":"cmd/hats/white_wolf_hat"}}
+{"parent":"templates/wolf_hat","textures":{"1":"cmd/hats/white_wolf_hat","particle":"cmd/hats/white_wolf_hat"}}
