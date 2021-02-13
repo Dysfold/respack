@@ -56,6 +56,8 @@
     { "predicate": { "custom_model_data": 48}, "model": "cmd/hats/48_horse_zombie"},
     { "predicate": { "custom_model_data": 49}, "model": "cmd/hats/49_horse_mule"},
     { "predicate": { "custom_model_data": 50}, "model": "cmd/hats/50_horse_donkey"},
+    { "predicate": { "custom_model_data": 51}, "model": "cmd/hats/51_cow"},
+    { "predicate": { "custom_model_data": 52}, "model": "cmd/hats/52_pig"},
     { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/1000_test"}
   ]
 }
