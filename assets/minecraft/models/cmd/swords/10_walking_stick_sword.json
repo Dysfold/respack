@@ -1,0 +1,26 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "cmd/swords/walking_stick_sword"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, -90, 40],
+      "translation": [0, 7, 2],
+      "scale": [1, 1, 0.6]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 90, -40],
+      "translation": [0, 7, 2],
+      "scale": [1.15, 1.15, 1]
+    },
+    "firstperson_righthand": {
+      "rotation": [0, -90, 50],
+      "translation": [1.13, 3.2, 1.13]
+    },
+    "firstperson_lefthand": {
+      "rotation": [0, 90, -50],
+      "translation": [1.13, 3.2, 1.13]
+    }
+  }
+}

@@ -12,6 +12,7 @@
     { "predicate": { "custom_model_data": 6}, "model": "cmd/swords/6_jungle_knife"},
     { "predicate": { "custom_model_data": 7}, "model": "cmd/swords/7_gladius"},
     { "predicate": { "custom_model_data": 8}, "model": "cmd/swords/8_glaive"},
-    { "predicate": { "custom_model_data": 9}, "model": "cmd/swords/9_flaming_sword"}
+    { "predicate": { "custom_model_data": 9}, "model": "cmd/swords/9_flaming_sword"},
+    { "predicate": { "custom_model_data": 10}, "model": "cmd/swords/10_walking_stick_sword"}
   ]
 }
