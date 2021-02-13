@@ -12,6 +12,7 @@
   "vk.gladius": "Gladius",
   "vk.glaive": "Glaive",
   "vk.flaming_sword": "Palava miekka",
+  "vk.walking_stick_sword": "K\u00e4velykeppimiekka",
 
   "vk.sickle": "Sirppi",
   "vk.scythe": "Viikate",
@@ -24,6 +25,7 @@
   "vk.pliers": "Pihdit",
   "vk.whip": "Ruoska",
   "vk.war_hammer": "Sotavasara",
+  "vk.walking_stick": "K\u00e4velykeppi",
 
   "vk.throwing_star": "Heittot\u00e4hti",
   "vk.boomerang": "Bumerangi",
@@ -41,7 +43,7 @@
   "vk.money_mold": "Rahamuotti",
   "vk.dried_tobacco": "Kuivattu tupakka",
   "vk.dice": "Noppa",
-  "vk.bomb": "Pommi",
+  "vk.tooth": "Hammas",
 
   "vk.hot_iron_ingot": "Kuuma rautaharkko",
   "vk.hot_iron_blade": "Kuuma rautater\u00e4",
@@ -110,7 +112,9 @@
   "vk.skull_mask": "Kallonaamio",
   "vk.cage_mask": "H\u00e4kkinaamio",
   "vk.monocle": "Monokkeli",
-  "vk.horse_hat": "Hevosen p\u00e4\u00e4",
+  "vk.horse_head": "Hevosen p\u00e4\u00e4",
+  "vk.cow_head": "Lehm\u00e4n p\u00e4\u00e4",
+  "vk.pig_head": "Sian p\u00e4\u00e4",
 
   "vk.cheese": "Juusto",
   "vk.meatballs": "Lihapullat",
@@ -132,8 +136,12 @@
   "vk.cheese_pie": "Juustopiirakka",
   "vk.caramel_apple": "Karamellisoitu omena",
   "vk.cherry": "Kirsikka",
+  "vk.green_apple": "Vihre\u00e4 omena",
 
   "vk.speaker_stick": "Puhujankeppi",
+  "vk.bomb": "Pommi",
+  "vk.smoke_bomb": "Savupommi",
+  "vk.walking_stick_sword_scabbard": "K\u00e4velykeppimiekkan huotra",
 
   "vk.deck_of_cards": "Korttipakka",
   "item.minecraft.prismarine_crystals": "Pelikortti",
@@ -148,6 +156,8 @@
   "block.minecraft.diamond_ore": "Rikkimalmi",
   "block.minecraft.diamond_block": "Rikkikuutio",
   "item.minecraft.diamond": "Rikki",
+
+  "block.minecraft.damaged_anvil": "Vaurioitunut alasin",
 
   "block.minecraft.twisting_vines": "Humalak\u00f6ynn\u00f6s",
   "block.minecraft.twisting_vines_plant": "Humalak\u00f6ynn\u00f6skasvi",
