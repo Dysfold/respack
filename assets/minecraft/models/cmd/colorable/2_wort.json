@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cmd/colorable/wort_liquid",
+    "layer1": "cmd/colorable/wort_bucket"
+  }
+}
