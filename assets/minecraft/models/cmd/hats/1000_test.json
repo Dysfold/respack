@@ -1,57 +1,118 @@
 {
-  "gui_light": "side",
-  "display": {
-    "gui": {
-      "rotation": [30, 225, 0],
-      "translation": [0, 3, 0],
-      "scale": [0.2, 0.2, 0.2]
+    "parent": "templates/helmet",
+    "textures": {
+        "1": "cmd/hats/sheep_hat"
     },
-    "head": {
-      "translation": [0, 1121, 0],
-      "scale": [10, 10, 10]
-    },
-    "ground": {
-      "translation": [0, 10, 0],
-      "scale": [10, 10, 10]
-    },
-    "fixed": {
-      "translation": [0, 0, -8],
-      "rotation": [270, 0, 0],
-      "scale": [1, 1, 1]
-    },
-    "thirdperson_righthand": {
-      "rotation": [45, 45, 0],
-      "translation": [0, 4, 2],
-      "scale": [0.4, 0.4, 0.4]
-    },
-    "firstperson_righthand": {
-      "rotation": [0, 45, 0],
-      "translation": [0, 3, 0],
-      "scale": [0.3, 0.3, 0.3]
-    },
-    "firstperson_lefthand": {
-      "rotation": [0, 225, 0],
-      "translation": [0, 3, 0],
-      "scale": [0.3, 0.3, 0.3]
-    }
-  },
-  "textures": {
-    "3": "entity/steve",
-    "particle": "entity/steve"
-  },
-  "elements": [
-    {
-      "from": [-16, -16, -16],
-      "to": [32, 32, 32],
-      "rotation": { "angle": 0, "axis": "y", "origin": [2, 8, 8] },
-      "faces": {
-        "north": { "uv": [2, 2, 4, 4], "texture": "#3" },
-        "east": { "uv": [0, 2, 2, 4], "texture": "#3" },
-        "south": { "uv": [6, 2, 8, 4], "texture": "#3" },
-        "west": { "uv": [4, 2, 6, 4], "texture": "#3" },
-        "up": { "uv": [2, 0, 4, 2], "texture": "#3" },
-        "down": { "uv": [4, 0, 6, 2], "texture": "#3" }
-      }
-    }
-  ]
+    "elements": [{
+            "name": "sheephead",
+            "from": [4.0, -7.54, 4.0],
+            "to": [12.0, 0.46, 12.0],
+            "rotation": {
+                "angle": 0.0,
+                "axis": "z",
+                "origin": [8.0, -3.54, 8.0]
+            },
+            "faces": {
+                "north": {
+                    "uv": [4.0, 0.0, 8.0, 8.0],
+                    "texture": "#1",
+                    "tintindex": 0
+                },
+                "east": {
+                    "uv": [-0.0, 0.0, 4.0, 8.0],
+                    "texture": "#1",
+					"tintindex": 0
+                },
+                "south": {
+                    "uv": [12.0, 0.0, 16.0, 8.0],
+                    "texture": "#1",
+					"tintindex": 0
+                },
+                "west": {
+                    "uv": [8.0, 0.0, 12.0, 8.0],
+                    "texture": "#1",
+					"tintindex": 0
+                },
+                "up": {
+                    "uv": [8.0, 8.0, 12.0, 16.0],
+                    "texture": "#1",
+					"tintindex": 0,
+                    "rotation": 180
+                },
+                "down": {
+                    "uv": [4.0, 8.0, 8.0, 16.0],
+                    "texture": "#1",
+					"tintindex": 0,
+                    "rotation": 180
+                }
+            }
+        }, {
+            "name": "sheephead.001",
+            "from": [5.0, -6.54, 2.67],
+            "to": [11.0, -0.54, 4.67],
+            "rotation": {
+                "angle": 0.0,
+                "axis": "z",
+                "origin": [8.0, -3.54, 4.67]
+            },
+            "faces": {
+                "north": {
+                    "uv": [4.5, 1.0, 7.5, 7.0],
+                    "texture": "#1",
+					"tintindex": 0
+                },
+                "east": {
+                    "uv": [-0.0, 8.0, 1.0, 14.0],
+                    "texture": "#1",
+					"tintindex": 0
+                },
+                "west": {
+                    "uv": [1.0, 8.0, 2.0, 14.0],
+                    "texture": "#1",
+					"tintindex": 0
+                },
+                "up": {
+                    "uv": [8.5, 14.0, 11.5, 16.0],
+                    "texture": "#1",
+					"tintindex": 0,
+                    "rotation": 180
+                },
+                "down": {
+                    "uv": [4.5, 8.0, 7.5, 10.0],
+                    "texture": "#1",
+					"tintindex": 0,
+                    "rotation": 180
+                }
+            }
+        }, {
+            "name": "sheepface",
+            "from": [5.0, -6.54, 2.67],
+            "to": [11.0, -0.54, 4.67],
+            "rotation": {
+                "angle": 0.0,
+                "axis": "z",
+                "origin": [8.0, -3.54, 4.67]
+            },
+            "faces": {
+                "north": {
+                    "uv": [12.5, 8.0, 15.5, 14.0],
+                    "texture": "#1"
+                },
+                "east": {
+                    "uv": [2.0, 8.0, 3.0, 14.0],
+                    "texture": "#1"
+                },
+                "west": {
+                    "uv": [3.0, 8.0, 4.0, 14.0],
+                    "texture": "#1"
+                }
+            }
+        }
+    ],
+    "groups": [{
+            "name": "Collection",
+            "origin": [0, 0, 0],
+            "children": [0, 1, 2]
+        }
+    ]
 }
