@@ -26,6 +26,9 @@
 
     { "predicate": { "custom_model_data": 19 }, "model": "cmd/foods/19_caramel_apple" },
     { "predicate": { "custom_model_data": 20 }, "model": "cmd/foods/20_cherry" },
-    { "predicate": { "custom_model_data": 21 }, "model": "cmd/foods/21_green_apple" }
+    { "predicate": { "custom_model_data": 21 }, "model": "cmd/foods/21_green_apple" },
+    { "predicate": { "custom_model_data": 22 }, "model": "cmd/foods/22_cocos" },
+    { "predicate": { "custom_model_data": 23 }, "model": "cmd/foods/23_crap" },
+    { "predicate": { "custom_model_data": 24 }, "model": "cmd/foods/24_gingerbread" }
   ]
 }
