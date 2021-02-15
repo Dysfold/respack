@@ -102,6 +102,10 @@
       "custom/player/hurt_ouch"
     ]
   },
+  "custom.scream": {
+    "sounds": ["custom/player/hurt_scream"],
+    "attenuation_distance": 20
+  },
   "custom.card": {
     "sounds": ["custom/cards/card"]
   },
