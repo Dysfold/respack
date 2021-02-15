@@ -1,1 +1,1 @@
-{"parent":"templates/horse_hat","textures":{"1":"entity/horse/horse_skeleton","particle":"entity/horse/horse_skeleton"}}
+{"parent":"templates/horse_skeleton_hat","textures":{"1":"entity/horse/horse_skeleton","particle":"entity/horse/horse_skeleton"}}
