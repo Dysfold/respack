@@ -217,10 +217,10 @@
   "item.minecraft.beetroot_seeds": "Tupakan siemenet",
   "block.minecraft.beetroots": "Tupakka",
 
-  "block.minecraft.prismarine_slab": "Hiekkakivitiililaatta",
-  "block.minecraft.prismarine_stairs": "Hiekkakivitiiliportaat",
-  "block.minecraft.prismarine": "Hiekkakivitiili",
-  "block.minecraft.prismarine_wall": "Hiekkakivitiilimuuri",
+  "block.minecraft.prismarine_slab": "Kultainen laatta",
+  "block.minecraft.prismarine_stairs": "Kultaiset portaat",
+  "block.minecraft.prismarine": "Sile\u00e4 kultakuutio",
+  "block.minecraft.prismarine_wall": "Kultainen muuri",
 
   "item.minecraft.quartz": "Kalium",
   "block.minecraft.nether_quartz_ore": "Kaliummalmi",
