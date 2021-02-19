@@ -5,6 +5,9 @@
   },
   "overrides": [
     { "predicate": { "custom_model_data": 1}, "model": "cmd/colorable/1_wort"},
+    { "predicate": { "custom_model_data": 2}, "model": "cmd/colorable/2_golden_trophy"},
+    { "predicate": { "custom_model_data": 3}, "model": "cmd/colorable/3_silver_trophy"},
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/colorable/4_bronze_trophy"},
 
     { "predicate": { "custom_model_data": 1000}, "model": "cmd/colorable/1000_cauldron_water"}
   ]
