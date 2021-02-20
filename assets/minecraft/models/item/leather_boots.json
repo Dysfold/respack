@@ -60,6 +60,7 @@
     { "predicate": { "custom_model_data": 52}, "model": "cmd/hats/52_pig"},
     { "predicate": { "custom_model_data": 53}, "model": "cmd/hats/53_sheep"},
     { "predicate": { "custom_model_data": 54}, "model": "cmd/hats/54_chicken"},
+    { "predicate": { "custom_model_data": 55}, "model": "cmd/hats/55_card_hat"},
     { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/1000_test"}
   ]
 }

@@ -1,0 +1,96 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "templates/hat",
+	"textures": {
+		"4": "block/light_gray_concrete",
+		"5": "block/orange_concrete_powder",
+		"6": "cmd/cards/s7",
+		"8": "cmd/cards/card_back",
+		"particle": "block/purple_concrete"
+	},
+	"elements": [
+		{
+			"from": [3, -1.5, 3],
+			"to": [13, -0.5, 13],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 10, 1], "texture": "#4", "tintindex": 0},
+				"east": {"uv": [0, 0, 10, 1], "texture": "#4", "tintindex": 0},
+				"south": {"uv": [0, 0, 10, 1], "texture": "#4", "tintindex": 0},
+				"west": {"uv": [0, 0, 10, 1], "texture": "#4", "tintindex": 0},
+				"up": {"uv": [0, 0, 10, 10], "texture": "#4", "tintindex": 0},
+				"down": {"uv": [0, 0, 10, 10], "texture": "#4", "tintindex": 0}
+			}
+		},
+		{
+			"from": [4, -0.5, 4],
+			"to": [12, 3.5, 12],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 8, 4], "texture": "#4", "tintindex": 0},
+				"east": {"uv": [0, 0, 8, 4], "texture": "#4", "tintindex": 0},
+				"south": {"uv": [0, 0, 8, 4], "texture": "#4", "tintindex": 0},
+				"west": {"uv": [0, 0, 8, 4], "texture": "#4", "tintindex": 0},
+				"up": {"uv": [0, 0, 8, 8], "texture": "#4", "tintindex": 0},
+				"down": {"uv": [0, 0, 8, 8], "texture": "#4"}
+			}
+		},
+		{
+			"name": "nauha",
+			"from": [3.8, -0.5, 3.8],
+			"to": [12.2, 0.5, 12.2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, -1.5, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 8.4, 1], "texture": "#5"},
+				"east": {"uv": [0, 0, 8.4, 1], "texture": "#5"},
+				"south": {"uv": [0, 0, 8.4, 1], "texture": "#5"},
+				"west": {"uv": [0, 0, 8.4, 1], "texture": "#5"},
+				"up": {"uv": [0, 0, 8.4, 8.4], "texture": "#5"},
+				"down": {"uv": [0, 0, 0, 0], "texture": "#5"}
+			}
+		},
+		{
+			"from": [3.39645, -0.60355, 3.9],
+			"to": [5.89645, 3.39645, 3.9],
+			"rotation": {"angle": 45, "axis": "z", "origin": [5, 1.75, 3.9]},
+			"faces": {
+				"north": {"uv": [0, 0, 10.5, 15.5], "texture": "#6"},
+				"south": {"uv": [0, 0, 10.5, 15.5], "texture": "#8"}
+			}
+		},
+		{
+			"from": [6.75, 0.5, 12.1],
+			"to": [9.25, 2.5, 12.1],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 1.25, 12.1]},
+			"faces": {
+				"north": {"uv": [0, 0, 10.5, 15.5], "texture": "#missing"},
+				"south": {"uv": [0, 0, 10.5, 7.75], "texture": "#8"}
+			}
+		},
+		{
+			"from": [6.75, -0.45, 9.6],
+			"to": [9.25, -0.45, 13.6],
+			"rotation": {"angle": 0, "axis": "x", "origin": [8, 1.25, 12.1]},
+			"faces": {
+				"up": {"uv": [0, 0, 10.5, 15.5], "texture": "#8"},
+				"down": {"uv": [0, 0, 10.5, 15.5], "rotation": 180, "texture": "#6"}
+			}
+		},
+		{
+			"from": [5.0206, -0.90328, 3.83],
+			"to": [7.5206, 3.09672, 3.83],
+			"rotation": {"angle": 22.5, "axis": "z", "origin": [6, 1.75, 3.9]},
+			"faces": {
+				"north": {"uv": [0, 0, 10.5, 15.5], "texture": "#8"},
+				"south": {"uv": [0, 0, 10.5, 15.5], "texture": "#8"}
+			}
+		}
+	],
+	"groups": [0, 1,
+		{
+			"name": "nauha",
+			"origin": [8, 8, 8],
+			"children": [2, 3, 4, 5, 6]
+		}
+	]
+}
