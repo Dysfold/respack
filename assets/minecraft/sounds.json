@@ -49,6 +49,88 @@
       }
     ]
   },
+
+  "custom.flute_c4_250ms": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "custom/notes/flute/flute_c4_250ms",
+        "stream": false,
+        "attenuation_distance": 20
+      }
+    ]
+  },
+  "custom.flute_c4_500ms": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "custom/notes/flute/flute_c4_500ms",
+        "stream": false,
+        "attenuation_distance": 20
+      }
+    ]
+  },
+  "custom.flute_c4_1000ms": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "custom/notes/flute/flute_c4_1000ms",
+        "stream": false,
+        "attenuation_distance": 20
+      }
+    ]
+  },
+  "custom.flute_c4_2000ms": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "custom/notes/flute/flute_c4_2000ms",
+        "stream": false,
+        "attenuation_distance": 20
+      }
+    ]
+  },
+  "custom.flute_c5_250ms": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "custom/notes/flute/flute_c5_250ms",
+        "stream": false,
+        "attenuation_distance": 20
+      }
+    ]
+  },
+  "custom.flute_c5_500ms": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "custom/notes/flute/flute_c5_500ms",
+        "stream": false,
+        "attenuation_distance": 20
+      }
+    ]
+  },
+  "custom.flute_c5_1000ms": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "custom/notes/flute/flute_c5_1000ms",
+        "stream": false,
+        "attenuation_distance": 20
+      }
+    ]
+  },
+  "custom.flute_c5_2000ms": {
+    "category": "neutral",
+    "sounds": [
+      {
+        "name": "custom/notes/flute/flute_c5_2000ms",
+        "stream": false,
+        "attenuation_distance": 20
+      }
+    ]
+  },
+
   "custom.heartbeat": {
     "category": "player",
     "sounds": ["custom/player/heartbeat"]

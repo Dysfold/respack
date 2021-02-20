@@ -6,6 +6,7 @@
   "overrides": [
     {"predicate": { "custom_model_data": 1 }, "model": "cmd/nostack/1_speaker_stick"},
     {"predicate": { "custom_model_data": 2 }, "model": "cmd/nostack/2_bomb"},
-    {"predicate": { "custom_model_data": 3 }, "model": "cmd/nostack/3_walking_stick_sword_scabbard"}
+    {"predicate": { "custom_model_data": 3 }, "model": "cmd/nostack/3_walking_stick_sword_scabbard"},
+    {"predicate": { "custom_model_data": 4 }, "model": "cmd/nostack/4_flute"}
   ]
 }
