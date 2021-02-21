@@ -65,6 +65,8 @@
     { "predicate": { "custom_model_data": 57}, "model": "cmd/hats/57_pirate_bicorne"},
     { "predicate": { "custom_model_data": 58}, "model": "cmd/hats/58_rotated_bicorne"},
     { "predicate": { "custom_model_data": 59}, "model": "cmd/hats/59_jester_hat"},
+    { "predicate": { "custom_model_data": 60}, "model": "cmd/hats/60_execution_hood"},
+    { "predicate": { "custom_model_data": 61}, "model": "cmd/hats/61_wig"},
     { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/1000_test"}
   ]
 }
