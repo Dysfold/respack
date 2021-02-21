@@ -63,6 +63,7 @@
     { "predicate": { "custom_model_data": 55}, "model": "cmd/hats/55_card_hat"},
     { "predicate": { "custom_model_data": 56}, "model": "cmd/hats/56_bicorne"},
     { "predicate": { "custom_model_data": 57}, "model": "cmd/hats/57_pirate_bicorne"},
+    { "predicate": { "custom_model_data": 58}, "model": "cmd/hats/58_rotated_bicorne"},
     { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/1000_test"}
   ]
 }
