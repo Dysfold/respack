@@ -176,13 +176,7 @@
     "sounds": ["custom/whip"]
   },
   "custom.hurt": {
-    "sounds": [
-      "damage/hit1",
-      "damage/hit2",
-      "damage/hit3",
-      "custom/player/hurt_scream",
-      "custom/player/hurt_ouch"
-    ]
+    "sounds": ["custom/player/hurt_ouch"]
   },
   "custom.scream": {
     "sounds": ["custom/player/hurt_scream"],
