@@ -69,6 +69,7 @@
     { "predicate": { "custom_model_data": 61}, "model": "cmd/hats/61_wig"},
     { "predicate": { "custom_model_data": 62}, "model": "cmd/hats/62_dark_hood"},
     { "predicate": { "custom_model_data": 63}, "model": "cmd/hats/63_saucepan"},
+    { "predicate": { "custom_model_data": 64}, "model": "cmd/hats/64_headband"},
     { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/1000_test"}
   ]
 }
