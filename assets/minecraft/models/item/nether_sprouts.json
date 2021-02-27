@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/nether_sprouts"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "cmd/seeds/1_seeds" },
+    { "predicate": { "custom_model_data": 2 }, "model": "cmd/seeds/2_seeds" },
+    { "predicate": { "custom_model_data": 3 }, "model": "cmd/seeds/3_seeds" },
+    { "predicate": { "custom_model_data": 4 }, "model": "cmd/seeds/4_seeds" },
+    { "predicate": { "custom_model_data": 5 }, "model": "cmd/seeds/5_seeds" },
+    { "predicate": { "custom_model_data": 6 }, "model": "cmd/seeds/6_seeds" },
+    { "predicate": { "custom_model_data": 7 }, "model": "cmd/seeds/7_seeds" },
+    { "predicate": { "custom_model_data": 8 }, "model": "cmd/seeds/8_seeds" },
+    { "predicate": { "custom_model_data": 9 }, "model": "cmd/seeds/9_seeds" }
+  ]
+}

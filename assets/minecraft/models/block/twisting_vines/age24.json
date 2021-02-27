@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "custom/block/twisting_vines/age24"
+  }
+}
