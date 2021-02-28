@@ -29,6 +29,10 @@
     { "predicate": { "custom_model_data": 21 }, "model": "cmd/foods/21_green_apple" },
     { "predicate": { "custom_model_data": 22 }, "model": "cmd/foods/22_cocos" },
     { "predicate": { "custom_model_data": 23 }, "model": "cmd/foods/23_crap" },
-    { "predicate": { "custom_model_data": 24 }, "model": "cmd/foods/24_gingerbread" }
+    { "predicate": { "custom_model_data": 24 }, "model": "cmd/foods/24_gingerbread" },
+    { "predicate": { "custom_model_data": 25 }, "model": "cmd/foods/25_tobacco" },
+    { "predicate": { "custom_model_data": 26 }, "model": "cmd/foods/26_blue_berries" },
+    { "predicate": { "custom_model_data": 27 }, "model": "cmd/foods/27_fresh_coffee_beans" },
+    { "predicate": { "custom_model_data": 28 }, "model": "cmd/foods/28_coffee_beans" }
   ]
 }
