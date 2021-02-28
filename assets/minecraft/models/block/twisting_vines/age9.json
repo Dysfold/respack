@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/cross",
+  "parent": "block/cross",
   "textures": {
     "cross": "custom/block/twisting_vines/age9"
   }
