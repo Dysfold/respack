@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/paper"
+  },
+  "overrides":  [
+    { "predicate": { "custom_model_data": 1}, "model": "cmd/paper/1_written_paper"},
+    { "predicate": { "custom_model_data": 2}, "model": "cmd/paper/2_sealed_paper"},
+    { "predicate": { "custom_model_data": 3}, "model": "cmd/paper/3_empty_envelope"},
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/paper/4_envelope"},
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/paper/5_sealed_envelope"}
+  ]
+}
