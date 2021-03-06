@@ -1,6 +1,7 @@
 {
   "parent": "templates/colorable_head",
   "textures": {
-    "0": "cmd/hats/wig"
+    "0": "cmd/hats/wig",
+    "particle": "cmd/hats/wig"
   }
 }
