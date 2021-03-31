@@ -38,6 +38,8 @@
     {"predicate": { "custom_model_data": 31 }, "model": "cmd/hidden/31_corpse_burned" },
     {"predicate": { "custom_model_data": 32 }, "model": "cmd/hidden/32_corpse_wounded" },
     {"predicate": { "custom_model_data": 33 }, "model": "cmd/hidden/33_corpse_poisoned" },
-    {"predicate": { "custom_model_data": 34 }, "model": "cmd/hidden/34_corpse_pierced" }
+    {"predicate": { "custom_model_data": 34 }, "model": "cmd/hidden/34_corpse_pierced" },
+
+    {"predicate": { "custom_model_data": 35 }, "model": "cmd/hidden/35_seeds_in_bowl" }
   ]
 }
