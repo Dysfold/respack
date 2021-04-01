@@ -72,6 +72,9 @@
     { "predicate": { "custom_model_data": 64}, "model": "cmd/hats/64_headband"},
     { "predicate": { "custom_model_data": 65}, "model": "cmd/hats/65_plague_mask_hat"},
     { "predicate": { "custom_model_data": 66}, "model": "cmd/hats/66_skull_helmet"},
-    { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/1000_test"}
+    { "predicate": { "custom_model_data": 67}, "model": "cmd/hats/67_black_skull_helmet"},
+    { "predicate": { "custom_model_data": 68}, "model": "cmd/hats/68_golden_skull_helmet"},
+    { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/1000_test"},
+    { "predicate": { "custom_model_data": 1001}, "model": "cmd/hats/1001_laetta"}
   ]
 }

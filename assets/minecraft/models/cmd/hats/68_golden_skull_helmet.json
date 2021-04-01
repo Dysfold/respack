@@ -2,7 +2,7 @@
   "parent": "templates/hats/skull_helmet",
   "textures": {
     "4": "custom/block/emissive/white",
-    "1": "block/bone_block_side",
-    "particle": "block/bone_block_side"
+    "1": "block/gold_block",
+    "particle": "block/gold_block"
   }
 }
