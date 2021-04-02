@@ -3,7 +3,8 @@
   "textures": {
     "1": "entity/shield_base",
     "2": "block/anvil",
-    "3": "block/spruce_trapdoor"
+    "3": "block/spruce_trapdoor",
+    "particle": "block/spruce_trapdoor"
   },
   "elements": [
     {
