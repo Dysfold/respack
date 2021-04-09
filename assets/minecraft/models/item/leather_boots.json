@@ -76,6 +76,7 @@
     { "predicate": { "custom_model_data": 68}, "model": "cmd/hats/68_golden_skull_helmet"},
     { "predicate": { "custom_model_data": 69}, "model": "cmd/hats/69_chefs_hat"},
     { "predicate": { "custom_model_data": 70}, "model": "cmd/hats/70_viking_helmet_3"},
+    { "predicate": { "custom_model_data": 71}, "model": "cmd/hats/71_viking_helmet_4"},
     { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/1000_test"},
     { "predicate": { "custom_model_data": 1001}, "model": "cmd/hats/1001_laetta"}
   ]
