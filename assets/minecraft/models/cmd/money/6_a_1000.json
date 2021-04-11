@@ -1,6 +1,6 @@
 {
-	"parent": "templates/offset",
-	"textures" : {
-		"layer0": "cmd/money/a_1000"
-	}
+  "parent": "templates/2d/odd_coin",
+  "textures": {
+    "layer0": "cmd/money/a_1000"
+  }
 }

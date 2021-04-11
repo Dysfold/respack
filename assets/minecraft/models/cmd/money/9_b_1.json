@@ -1,6 +1,6 @@
 {
-	"parent": "item/generated",
-	"textures" : {
-		"layer0": "cmd/money/b_1"
-	}
+  "parent": "templates/2d/even_coin",
+  "textures": {
+    "layer0": "cmd/money/b_1"
+  }
 }
