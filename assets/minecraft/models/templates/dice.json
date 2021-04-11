@@ -26,7 +26,7 @@
       "scale": [0.15, 0.15, 0.15]
     },
     "fixed": {
-      "rotation": [0, 0, 0],
+      "rotation": [-90, 0, 0],
       "translation": [0, 0, 0],
       "scale": [0.5, 0.5, 0.5]
     },
