@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "cmd/unstackable/walking_stick_sword_scabbard"
+  }
+}

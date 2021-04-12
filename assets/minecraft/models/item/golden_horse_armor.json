@@ -4,10 +4,15 @@
     "layer0": "minecraft:item/golden_horse_armor"
   },
   "overrides": [
-    {"predicate": { "custom_model_data": 1 }, "model": "cmd/nostack/1_speaker_stick"},
-    {"predicate": { "custom_model_data": 2 }, "model": "cmd/nostack/2_bomb"},
-    {"predicate": { "custom_model_data": 3 }, "model": "cmd/nostack/3_walking_stick_sword_scabbard"},
-    {"predicate": { "custom_model_data": 4 }, "model": "cmd/nostack/4_flute"},
-    {"predicate": { "custom_model_data": 5 }, "model": "cmd/nostack/5_guillotine"}
+    {"predicate": { "custom_model_data": 1 }, "model": "cmd/unstackable/1_speaker_stick"},
+    {"predicate": { "custom_model_data": 2 }, "model": "cmd/unstackable/2_bomb"},
+    {"predicate": { "custom_model_data": 3 }, "model": "cmd/unstackable/3_walking_stick_sword_scabbard"},
+    {"predicate": { "custom_model_data": 4 }, "model": "cmd/unstackable/4_flute"},
+    {"predicate": { "custom_model_data": 5 }, "model": "cmd/unstackable/5_guillotine_blade"},
+    {"predicate": { "custom_model_data": 6 }, "model": "cmd/unstackable/6_written_paper"},
+    {"predicate": { "custom_model_data": 7 }, "model": "cmd/unstackable/7_sealed_paper"},
+    {"predicate": { "custom_model_data": 8 }, "model": "cmd/unstackable/8_empty_envelope"},
+    {"predicate": { "custom_model_data": 9 }, "model": "cmd/unstackable/9_envelope"},
+    {"predicate": { "custom_model_data": 10 }, "model": "cmd/unstackable/10_sealed_envelope"}
   ]
 }

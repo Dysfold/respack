@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "cmd/paper/envelope"
+    "layer0": "cmd/unstackable/sealed_paper"
   }
 }

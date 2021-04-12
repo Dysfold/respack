@@ -1,6 +1,0 @@
-{
-  "parent": "item/handheld",
-  "textures": {
-    "layer0": "cmd/nostack/walking_stick_sword_scabbard"
-  }
-}
