@@ -1,10 +1,9 @@
 {
-    "parent": "templates/hats/crown",
-    "textures": {
-      "1": "custom/block/silver_block",
-      "2": "block/white_wool",
-      "3": "custom/item/blue_gem",
-      "particle": "#1"
-    }
+  "parent": "templates/hats/crown",
+  "textures": {
+    "1": "custom/block/silver_block",
+    "2": "block/white_wool",
+    "3": "custom/item/sapphire",
+    "particle": "#1"
   }
-  
+}
