@@ -138,6 +138,7 @@
   "vk.viking_helmet_3": "Viikinkikyp\u00e4r\u00e4 3 (todo)",
   "vk.viking_helmet_4": "Viikinkikyp\u00e4r\u00e4 4 (todo)",
   "vk.winter_hood": "Talvihuppu",
+  "vk.silver_crown": "Hopeakruunu",
 
   "vk.cheese": "Juusto",
   "vk.meatballs": "Lihapullat",
@@ -183,6 +184,8 @@
 
   "vk.wort": "Vierre",
   "vk.trophy": "Pokaali",
+
+  "vk.chair": "Tuoli",
 
   "vk.deck_of_cards": "Korttipakka",
   "item.minecraft.prismarine_crystals": "Pelikortti",
