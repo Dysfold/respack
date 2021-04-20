@@ -3,7 +3,7 @@
 	"parent": "minecraft:block/cube_bottom_top",
 	"textures": {
 		"3": "custom/block/dresser_front",
-		"4": "block/smooth_stone",
+		"4": "block/iron_block",
 		"5": "custom/block/dresser_inner",
 		"bottom": "block/barrel_bottom",
 		"particle": "custom/block/dresser_front"
