@@ -17,7 +17,28 @@
     "age=14": { "model": "minecraft:block/twisting_vines/age14" },
     "age=15": { "model": "minecraft:block/twisting_vines/age15" },
     "age=16": { "model": "minecraft:block/twisting_vines/age16" },
-    "age=17": { "model": "minecraft:block/twisting_vines/age17" },
+    "age=17": [
+      {
+        "model": "minecraft:block/twisting_vines/age17",
+        "y": 0,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/twisting_vines/age17",
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/twisting_vines/age17",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/twisting_vines/age17",
+        "y": 270,
+        "weight": 1
+      }
+    ],
     "age=18": { "model": "minecraft:block/twisting_vines/age18" },
     "age=19": { "model": "minecraft:block/twisting_vines/age19" },
     "age=20": { "model": "minecraft:block/twisting_vines/age20" },
