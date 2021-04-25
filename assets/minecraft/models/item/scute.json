@@ -1,0 +1,27 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/scute"
+  },
+  "overrides":  [
+    { "predicate": { "custom_model_data": 1}, "model": "cmd/blacksmith/1_gladius"},
+    { "predicate": { "custom_model_data": 2}, "model": "cmd/blacksmith/2_glaive"},
+    { "predicate": { "custom_model_data": 3}, "model": "cmd/blacksmith/3_hammer"},
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/blacksmith/4_hand_saw"},
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/blacksmith/5_jungle_knife"},
+    { "predicate": { "custom_model_data": 6}, "model": "cmd/blacksmith/6_katana"},
+    { "predicate": { "custom_model_data": 7}, "model": "cmd/blacksmith/7_knife"},
+    { "predicate": { "custom_model_data": 8}, "model": "cmd/blacksmith/8_long_sword"},
+    { "predicate": { "custom_model_data": 9}, "model": "cmd/blacksmith/9_rapier"},
+    { "predicate": { "custom_model_data": 10}, "model": "cmd/blacksmith/10_saber"},
+    { "predicate": { "custom_model_data": 11}, "model": "cmd/blacksmith/11_scythe"},
+    { "predicate": { "custom_model_data": 12}, "model": "cmd/blacksmith/12_sickle"},
+    { "predicate": { "custom_model_data": 13}, "model": "cmd/blacksmith/13_spear"},
+    { "predicate": { "custom_model_data": 14}, "model": "cmd/blacksmith/14_war_axe"},
+    { "predicate": { "custom_model_data": 15}, "model": "cmd/blacksmith/15_iron_axe"},
+    { "predicate": { "custom_model_data": 16}, "model": "cmd/blacksmith/16_iron_hoe"},
+    { "predicate": { "custom_model_data": 17}, "model": "cmd/blacksmith/17_iron_pickaxe"},
+    { "predicate": { "custom_model_data": 18}, "model": "cmd/blacksmith/18_iron_shovel"},
+    { "predicate": { "custom_model_data": 19}, "model": "cmd/blacksmith/19_iron_sword"}
+  ]
+}

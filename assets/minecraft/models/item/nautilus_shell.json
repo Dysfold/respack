@@ -1,7 +1,7 @@
 {  
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "minecraft:item/prismarine_crystals"
+    "layer0": "minecraft:item/nautilus_shell"
   },
   "overrides": [
     { "predicate": { "custom_model_data": 1 }, "model": "cmd/cards/1_c1" },

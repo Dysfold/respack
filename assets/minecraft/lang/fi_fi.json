@@ -28,16 +28,14 @@
   "vk.war_hammer": "Sotavasara",
   "vk.walking_stick": "K\u00e4velykeppi",
   "vk.gavel": "Tuomarin nuija",
+  "vk.golden_horn": "Kultainen torvi",
 
   "vk.throwing_star": "Heittot\u00e4hti",
   "vk.boomerang": "Bumerangi",
   "vk.football": "Jalkapallo",
 
   "vk.hand_grindstone": "Hiomakivi",
-  "vk.handcuffs": "K\u00e4siraudat",
-  "vk.handcuffs_locked": "Lukitut k\u00e4siraudat",
-  "vk.key": "Avain",
-  "vk.golden_horn": "Kultainen torvi",
+  "TODO": "Tästä puuttuu 3",
   "vk.daugh_bread": "Leip\u00e4taikina",
   "vk.daugh_cookie": "Keksitaikina",
   "vk.daugh_pumpkin_pie": "Kurpitsapiirakkataikina",
@@ -181,8 +179,11 @@
   "vk.written_paper": "Kirjepaperi",
   "vk.sealed_paper": "Sinet\u00f6ity kirjepaperi",
   "vk.empty_envelope": "Tyhj\u00e4 kirjekuori",
-  "vk.envelope": "Kirje",
+  "vk.letter": "Kirje",
   "vk.sealed_envelope": "Sinet\u00f6ity kirje",
+  "vk.handcuffs": "K\u00e4siraudat",
+  "vk.handcuffs_locked": "Lukitut k\u00e4siraudat",
+  "vk.key": "Avain",
 
   "vk.wort": "Vierre",
   "vk.trophy": "Pokaali",
@@ -190,14 +191,14 @@
   "vk.chair": "Tuoli",
 
   "vk.deck_of_cards": "Korttipakka",
-  "item.minecraft.prismarine_crystals": "Pelikortti",
+  "item.minecraft.nautilus_shell": "Pelikortti",
 
   "item.minecraft.potion.effect.water": "Vesi",
   "item.minecraft.potion.effect.thick": "Likainen vesi",
   "item.minecraft.potion.effect.mundane": "Kirkas vesi",
   "item.minecraft.potion.effect.awkward": "Suolainen vesi",
 
-  "item.minecraft.blaze_rod": "Metallinen osa",
+  "item.minecraft.scute": "Metallinen osa",
 
   "block.minecraft.diamond_ore": "Rikkimalmi",
   "block.minecraft.diamond_block": "Rikkikuutio",

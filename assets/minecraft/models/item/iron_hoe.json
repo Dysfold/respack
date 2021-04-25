@@ -23,6 +23,7 @@
     { "predicate": { "custom_model_data": 17}, "model": "cmd/tools/17_pliers_and_iron_stick"},
     { "predicate": { "custom_model_data": 18}, "model": "cmd/tools/18_war_hammer"},
     { "predicate": { "custom_model_data": 19}, "model": "cmd/tools/19_walking_stick"},
-    { "predicate": { "custom_model_data": 20}, "model": "cmd/tools/20_gavel"}
+    { "predicate": { "custom_model_data": 20}, "model": "cmd/tools/20_gavel"},
+    { "predicate": { "custom_model_data": 21}, "model": "cmd/tools/21_golden_horn"}
   ]
 }

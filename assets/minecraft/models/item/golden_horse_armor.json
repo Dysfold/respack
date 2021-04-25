@@ -13,6 +13,9 @@
     {"predicate": { "custom_model_data": 7 }, "model": "cmd/unstackable/7_sealed_paper"},
     {"predicate": { "custom_model_data": 8 }, "model": "cmd/unstackable/8_empty_envelope"},
     {"predicate": { "custom_model_data": 9 }, "model": "cmd/unstackable/9_envelope"},
-    {"predicate": { "custom_model_data": 10 }, "model": "cmd/unstackable/10_sealed_envelope"}
+    {"predicate": { "custom_model_data": 10 }, "model": "cmd/unstackable/10_sealed_envelope"},
+    {"predicate": { "custom_model_data": 11 }, "model": "cmd/unstackable/11_handcuffs"},
+    {"predicate": { "custom_model_data": 12 }, "model": "cmd/unstackable/12_handcuffs_locked"},
+    {"predicate": { "custom_model_data": 13 }, "model": "cmd/unstackable/13_key"}
   ]
 }

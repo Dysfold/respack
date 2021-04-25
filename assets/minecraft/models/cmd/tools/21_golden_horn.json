@@ -1,0 +1,16 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "cmd/tools/golden_horn"
+  },
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [0, -90, -45],
+      "translation": [0, 5.5, 2]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [0, 90, 45],
+      "translation": [0, 5.5, 2]
+    }
+  }
+}
