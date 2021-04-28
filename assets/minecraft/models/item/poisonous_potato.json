@@ -34,6 +34,7 @@
     { "predicate": { "custom_model_data": 26 }, "model": "cmd/foods/26_blue_berries" },
     { "predicate": { "custom_model_data": 27 }, "model": "cmd/foods/27_fresh_coffee_beans" },
     { "predicate": { "custom_model_data": 28 }, "model": "cmd/foods/28_coffee_beans" },
-    { "predicate": { "custom_model_data": 29 }, "model": "cmd/foods/29_tomato" }
+    { "predicate": { "custom_model_data": 29 }, "model": "cmd/foods/29_tomato" },
+    { "predicate": { "custom_model_data": 30 }, "model": "cmd/foods/30_pineapple" }
   ]
 }
