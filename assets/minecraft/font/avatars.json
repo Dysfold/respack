@@ -27,8 +27,8 @@
     {
       "type": "bitmap",
       "file": "minecraft:font/vk/avatars.png",
-      "height": 16,
-      "ascent": 7,
+      "height": 14,
+      "ascent": 5,
       "chars": [
         "\uB000\uB001\uB002\uB003\uB004\uB005\uB006\uB007\uB008\uB009\uB00a\uB00b\uB00c\uB00d\uB00B\uB00f",
         "\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",

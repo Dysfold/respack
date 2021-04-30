@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/vk/chat_decoration.png",
+      "ascent": 8,
+      "height": 16,
+      "chars": ["\uE001"]
+    }
+  ]
+}
