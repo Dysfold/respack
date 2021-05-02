@@ -503,6 +503,13 @@
       "ascent": 2,
       "height": 16,
       "chars": ["\uE008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/vk/gui/shop.png",
+      "ascent": 68,
+      "height": 256,
+      "chars": ["\uE009"]
     }
   ]
 }
