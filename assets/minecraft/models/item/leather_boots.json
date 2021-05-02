@@ -81,6 +81,7 @@
     { "predicate": { "custom_model_data": 73}, "model": "cmd/hats/73_silver_crown"},
     { "predicate": { "custom_model_data": 74}, "model": "cmd/hats/74_golden_dwarf_crown"},
     { "predicate": { "custom_model_data": 75}, "model": "cmd/hats/75_silver_dwarf_crown"},
+    { "predicate": { "custom_model_data": 76}, "model": "cmd/hats/76_bowtie"},
     { "predicate": { "custom_model_data": 1000}, "model": "cmd/hats/1000_test"},
     { "predicate": { "custom_model_data": 1001}, "model": "cmd/hats/1001_laetta"}
   ]
