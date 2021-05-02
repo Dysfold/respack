@@ -178,6 +178,12 @@
   "custom.hurt": {
     "sounds": ["custom/player/hurt_ouch"]
   },
+  "custom.ice_crack_short": {
+    "sounds": ["custom/ice/ice_short"]
+  },
+  "custom.ice_crack_long": {
+    "sounds": ["custom/ice/ice_long"]
+  },
   "custom.scream": {
     "sounds": ["custom/player/hurt_scream"],
     "attenuation_distance": 20
