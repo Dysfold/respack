@@ -11,25 +11,25 @@
     { "predicate": { "custom_model_data": 5}, "model": "cmd/money/5_a_100"},
     { "predicate": { "custom_model_data": 6}, "model": "cmd/money/6_a_1000"},
 
-    { "predicate": { "custom_model_data": 7}, "model": "cmd/money/7_b_0_01"},
-    { "predicate": { "custom_model_data": 8}, "model": "cmd/money/8_b_0_1"},
-    { "predicate": { "custom_model_data": 9}, "model": "cmd/money/9_b_1"},
-    { "predicate": { "custom_model_data": 10}, "model": "cmd/money/10_b_10"},
-    { "predicate": { "custom_model_data": 11}, "model": "cmd/money/11_b_100"},
-    { "predicate": { "custom_model_data": 12}, "model": "cmd/money/12_b_1000"},
+    { "predicate": { "custom_model_data": 11}, "model": "cmd/money/11_b_0_01"},
+    { "predicate": { "custom_model_data": 12}, "model": "cmd/money/12_b_0_1"},
+    { "predicate": { "custom_model_data": 13}, "model": "cmd/money/13_b_1"},
+    { "predicate": { "custom_model_data": 14}, "model": "cmd/money/14_b_10"},
+    { "predicate": { "custom_model_data": 15}, "model": "cmd/money/15_b_100"},
+    { "predicate": { "custom_model_data": 16}, "model": "cmd/money/16_b_1000"},
 
-    { "predicate": { "custom_model_data": 13}, "model": "cmd/money/13_c_0_01"},
-    { "predicate": { "custom_model_data": 14}, "model": "cmd/money/14_c_0_1"},
-    { "predicate": { "custom_model_data": 15}, "model": "cmd/money/15_c_1"},
-    { "predicate": { "custom_model_data": 16}, "model": "cmd/money/16_c_10"},
-    { "predicate": { "custom_model_data": 17}, "model": "cmd/money/17_c_100"},
-    { "predicate": { "custom_model_data": 18}, "model": "cmd/money/18_c_1000"},
+    { "predicate": { "custom_model_data": 21}, "model": "cmd/money/21_c_0_01"},
+    { "predicate": { "custom_model_data": 22}, "model": "cmd/money/22_c_0_1"},
+    { "predicate": { "custom_model_data": 23}, "model": "cmd/money/23_c_1"},
+    { "predicate": { "custom_model_data": 24}, "model": "cmd/money/24_c_10"},
+    { "predicate": { "custom_model_data": 25}, "model": "cmd/money/25_c_100"},
+    { "predicate": { "custom_model_data": 26}, "model": "cmd/money/26_c_1000"},
 
-    { "predicate": { "custom_model_data": 19}, "model": "cmd/money/19_d_0_01"},
-    { "predicate": { "custom_model_data": 20}, "model": "cmd/money/20_d_0_1"},
-    { "predicate": { "custom_model_data": 21}, "model": "cmd/money/21_d_1"},
-    { "predicate": { "custom_model_data": 22}, "model": "cmd/money/22_d_10"},
-    { "predicate": { "custom_model_data": 23}, "model": "cmd/money/23_d_100"},
-    { "predicate": { "custom_model_data": 24}, "model": "cmd/money/24_d_1000"}
+    { "predicate": { "custom_model_data": 31}, "model": "cmd/money/31_d_0_01"},
+    { "predicate": { "custom_model_data": 32}, "model": "cmd/money/32_d_0_1"},
+    { "predicate": { "custom_model_data": 33}, "model": "cmd/money/33_d_1"},
+    { "predicate": { "custom_model_data": 34}, "model": "cmd/money/34_d_10"},
+    { "predicate": { "custom_model_data": 35}, "model": "cmd/money/35_d_100"},
+    { "predicate": { "custom_model_data": 36}, "model": "cmd/money/36_d_1000"}
   ]
 }
