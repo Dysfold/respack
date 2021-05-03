@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "custom/block/planks/birch_planks_variant",
+    "side": "custom/block/planks/birch_planks_variant"
+  }
+}
