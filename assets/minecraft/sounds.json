@@ -217,5 +217,8 @@
         "attenuation_distance": 20
       }
     ]
+  },
+  "custom.cashregister": {
+    "sounds": ["custom/cashregister"]
   }
 }
