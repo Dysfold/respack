@@ -1,0 +1,26 @@
+{
+  "variants": {
+    "facing=down": {
+      "model": "minecraft:block/end_rod",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "minecraft:block/wall_lantern",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/wall_lantern"
+    },
+    "facing=south": {
+      "model": "minecraft:block/wall_lantern",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "minecraft:block/end_rod"
+    },
+    "facing=west": {
+      "model": "minecraft:block/wall_lantern",
+      "y": 270
+    }
+  }
+}

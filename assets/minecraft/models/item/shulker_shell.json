@@ -5,7 +5,7 @@
   },
   "overrides":  [
     { "predicate": { "custom_model_data": 1}, "model": "cmd/misc/1_hand_grindstone"},
-    { "predicate": { "custom_model_data": 2}, "model": "item/barrier"},
+    { "predicate": { "custom_model_data": 2}, "model": "block/chair"},
     { "predicate": { "custom_model_data": 3}, "model": "item/barrier"},
     { "predicate": { "custom_model_data": 4}, "model": "item/barrier"},
     { "predicate": { "custom_model_data": 5}, "model": "item/barrier"},
