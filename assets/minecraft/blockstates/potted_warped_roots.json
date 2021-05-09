@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "": 	[	{
+		"model": "minecraft:block/potted_warped_roots",
+        "y": 0,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/potted_warped_roots",
+        "y": 90,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/potted_warped_roots",
+        "y": 180,
+        "weight": 1
+      },
+      {
+        "model": "minecraft:block/potted_warped_roots",
+        "y": 270,
+        "weight": 1
+	} ]
+  } 
+}
+
+		
+		
