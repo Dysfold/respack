@@ -35,6 +35,7 @@
   "vk.football": "Jalkapallo",
 
   "vk.hand_grindstone": "Hiomakivi",
+  "vk.chair": "Tuoli",
   "TODO": "Tästä puuttuu 3",
   "vk.daugh_bread": "Leipätaikina",
   "vk.daugh_cookie": "Keksitaikina",
@@ -189,8 +190,6 @@
   "vk.wort": "Vierre",
   "vk.trophy": "Pokaali",
 
-  "vk.chair": "Tuoli",
-
   "vk.selling": "Myydään",
   "vk.buying": "Ostetaan",
 
@@ -261,15 +260,6 @@
   "item.minecraft.diamond_helmet": "Kaavun huppu",
   "item.minecraft.diamond_leggings": "Kaavun housut",
 
-  "item.minecraft.beetroot": "Tupakka",
-  "item.minecraft.beetroot_seeds": "Tupakan siemenet",
-  "block.minecraft.beetroots": "Tupakka",
-
-  "block.minecraft.prismarine_slab": "Kultainen laatta",
-  "block.minecraft.prismarine_stairs": "Kultaiset portaat",
-  "block.minecraft.prismarine": "Sileä kultakuutio",
-  "block.minecraft.prismarine_wall": "Kultainen muuri",
-
   "item.minecraft.quartz": "Kalium",
   "block.minecraft.nether_quartz_ore": "Kaliummalmi",
 
@@ -297,7 +287,6 @@
 
   "item.minecraft.bowl": "Soppakulho",
   "block.minecraft.dead_tube_coral_fan": "Kulho",
-  "block.minecraft.dead_brain_coral_fan": "Jyviä kulhossa",
   "block.minecraft.dead_brain_coral": "Jakkara",
 
   "item.minecraft.prismarine_shard": "Raha",
