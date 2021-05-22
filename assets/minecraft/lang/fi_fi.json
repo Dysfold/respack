@@ -302,6 +302,21 @@
   "block.minecraft.chorus_plant": "Erämaakaktus",
   "block.minecraft.end_stone": "Erämaahiekka",
 
+  "vk.currency_a_unit": "%s Punta",
+  "vk.currency_a_unit_plural": "%s Puntaa",
+  "vk.currency_a_subunit": "%s Penni",
+  "vk.currency_a_subunit_plural": "%s Penniä",
+
+  "vk.currency_b_unit": "%s Šillinki",
+  "vk.currency_b_unit_plural": "%s Šillinkiä",
+  "vk.currency_b_subunit": "%s Sentti",
+  "vk.currency_b_subunit_plural": "%s Senttiä",
+
+  "vk.currency_c_unit": "%s Rupla",
+  "vk.currency_c_unit_plural": "%s Ruplaa",
+  "vk.currency_c_subunit": "%s Kopeekka",
+  "vk.currency_c_subunit_plural": "%s Kopeekkaa",
+
   "container.barrel": "",
   "container.beacon": "",
   "container.blast_furnace": "",

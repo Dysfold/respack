@@ -302,6 +302,21 @@
   "block.minecraft.chorus_plant": "Desert cactus",
   "block.minecraft.end_stone": "Desert sand",
 
+  "vk.currency_a_unit": "%s Pound",
+  "vk.currency_a_unit_plural": "%s Pounds",
+  "vk.currency_a_subunit": "%s Penny",
+  "vk.currency_a_subunit_plural": "%s Pennies",
+
+  "vk.currency_b_unit": "%s Shilling",
+  "vk.currency_b_unit_plural": "%s Shillings",
+  "vk.currency_b_subunit": "%s Cent",
+  "vk.currency_b_subunit_plural": "%s Cents",
+
+  "vk.currency_c_unit": "%s Ruble",
+  "vk.currency_c_unit_plural": "%s Rubles",
+  "vk.currency_c_subunit": "%s Kopek",
+  "vk.currency_c_subunit_plural": "%s Kopeks",
+
   "container.barrel": "",
   "container.beacon": "",
   "container.blast_furnace": "",
