@@ -37,7 +37,7 @@
   "vk.hand_grindstone": "Hand Grindstone",
   "vk.chair": "Chair",
   "vk.lock": "Lock",
-  "TODO": "2 items missing here",
+  "TODO": "2 Items Missing Here",
   "vk.daugh_bread": "Bread Daugh",
   "vk.daugh_cookie": "Cookie Daugh",
   "vk.daugh_pumpkin_pie": "Pumpkin Pie Daugh",
@@ -198,9 +198,9 @@
   "item.minecraft.nautilus_shell": "Playing Card",
 
   "item.minecraft.potion.effect.water": "Water",
-  "item.minecraft.potion.effect.thick": "Dirty water",
-  "item.minecraft.potion.effect.mundane": "Clear water",
-  "item.minecraft.potion.effect.awkward": "Salty water",
+  "item.minecraft.potion.effect.thick": "Dirty Water",
+  "item.minecraft.potion.effect.mundane": "Clear Water",
+  "item.minecraft.potion.effect.awkward": "Salty Water",
 
   "item.minecraft.scute": "Metal Part",
 
@@ -219,9 +219,9 @@
   "block.minecraft.weeping_vines": "Rope",
   "block.minecraft.weeping_vines_plant": "Rope",
 
-  "block.minecraft.polished_andesite": "Andesite bricks",
-  "block.minecraft.polished_diorite": "Diorite bricks",
-  "block.minecraft.polished_granite": "Granite bricks",
+  "block.minecraft.polished_andesite": "Andesite Bricks",
+  "block.minecraft.polished_diorite": "Diorite Bricks",
+  "block.minecraft.polished_granite": "Granite Bricks",
   "block.minecraft.polished_andesite_slab": "Andesite Brick Slab",
   "block.minecraft.polished_diorite_slab": "Diorite Brick Slab",
   "block.minecraft.polished_granite_slab": "Granite Brick Slab",
