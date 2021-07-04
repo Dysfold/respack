@@ -245,6 +245,13 @@
   "block.minecraft.stripped_acacia_log": "Stipped Willow Log",
   "block.minecraft.stripped_acacia_wood": "Stipped Willow Wood",
 
+  "block.minecraft.nether_brick_wall": "Willow Beam",
+  "block.minecraft.red_nether_brick_wall": "Jungle Beam",
+  "block.minecraft.end_stone_brick_wall": "Birch Beam",
+  "block.minecraft.mossy_stone_brick_wall": "Oak Beam",
+  "block.minecraft.mossy_cobblestone_wall": "Spruce Beam",
+  "block.minecraft.prismarine_wall": "Dark Oak Beam",
+
   "block.minecraft.chiseled_quartz_block": "Chiseled Marmor Block",
   "block.minecraft.quartz_block": "Marmor Block",
   "block.minecraft.quartz_bricks": "Marmor Bricks",
