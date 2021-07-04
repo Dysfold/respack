@@ -248,9 +248,9 @@
   "block.minecraft.nether_brick_wall": "Pajupalkki",
   "block.minecraft.red_nether_brick_wall": "Viidakkopuupalkki",
   "block.minecraft.end_stone_brick_wall": "Koivupalkki",
-  "block.minecraft.mossy_stone_brick_wall": "Tammipalkki",
   "block.minecraft.mossy_cobblestone_wall": "Kuusipalkki",
   "block.minecraft.prismarine_wall": "Tummatammipalkki",
+  "block.minecraft.mossy_stone_brick_wall": "Tammipalkki",
 
   "block.minecraft.chiseled_quartz_block": "Kaiverrettu marmorikuutio",
   "block.minecraft.quartz_block": "Marmorikuutio",
