@@ -1,6 +1,6 @@
 {
   "parent": "templates/glass_post",
   "textures": {
-    "edge": "block/gray_concrete_powder"
+    "edge": "block/gray_candle"
   }
 }
