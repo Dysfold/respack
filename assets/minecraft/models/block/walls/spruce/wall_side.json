@@ -1,5 +1,5 @@
 {
-  "parent": "block/template_wall_side",
+  "parent": "templates/log_walls/side",
   "textures": {
     "wall": "block/spruce_log"
   }
