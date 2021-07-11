@@ -198,7 +198,10 @@
   "vk.selling": "Myydään",
   "vk.buying": "Ostetaan",
 
+  "vk.dresser": "Lipasto",
+
   "vk.deck_of_cards": "Korttipakka",
+  "vk.playing_card": "Pelikortti [%s]",
   "item.minecraft.nautilus_shell": "Pelikortti",
 
   "item.minecraft.potion.effect.water": "Vesi",
