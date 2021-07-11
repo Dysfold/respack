@@ -1,1 +1,32 @@
-{"parent":"","textures":{"1":"block/iron_door_bottom","particle":"block/iron_door_bottom"},"elements":[{"name":"Cube.010","from":[0.0,0.0,0.0],"to":[3.0,16.0,16.0],"rotation":{"angle":0.0,"axis":"z","origin":[8.0,8.0,8.0]},"faces":{"north":{"uv":[3.0,0.0,0.0,16.0],"texture":"#1"},"east":{"uv":[0.0,0.0,16.0,16.0],"texture":"#1"},"south":{"uv":[1.0,0.0,4.0,16.0],"texture":"#1","rotation":180},"west":{"uv":[16.0,0.0,0.0,16.0],"texture":"#1"},"up":{"uv":[0.0,8.0,16.0,11.0],"texture":"#1","rotation":90},"down":{"uv":[0.0,8.0,16.0,11.0],"texture":"#1","rotation":270}}}],"groups":[{"name":"Master Collection","origin":[0,0,0],"children":[0]}]}
+{
+    "parent": "",
+    "textures": {
+        "1": "block/iron_door_bottom",
+        "particle": "block/iron_door_bottom"
+    },
+    "elements": [{
+            "name": "Cube.010",
+            "from": [0.0, 0.0, 0.0],
+            "to": [3.0, 16.0, 16.0],
+            "rotation": {
+                "angle": 0.0,
+                "axis": "z",
+                "origin": [8.0, 8.0, 8.0]
+            },
+            "faces": {
+                "north": {"uv": [3.0, 0.0, 0.0, 16.0],"texture": "#1", "cullface": "north"},
+                "east": {"uv": [0.0, 0.0, 16.0, 16.0],"texture": "#1", "cullface": "east"},
+                "south": {"uv": [1.0, 0.0, 4.0, 16.0],"texture": "#1","rotation": 180, "cullface": "south"},
+                "west": {"uv": [16.0, 0.0, 0.0, 16.0],"texture": "#1", "cullface": "west"},
+                "up": {"uv": [0.0, 8.0, 16.0, 11.0],"texture": "#1","rotation": 90, "cullface": "up"},
+                "down": {"uv": [0.0, 8.0, 16.0, 11.0],"texture": "#1","rotation": 270, "cullface": "down"}
+            }
+        }
+    ],
+    "groups": [{
+            "name": "Master Collection",
+            "origin": [0, 0, 0],
+            "children": [0]
+        }
+    ]
+}
