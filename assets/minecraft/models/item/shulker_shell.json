@@ -7,8 +7,8 @@
     { "predicate": { "custom_model_data": 1}, "model": "cmd/misc/1_hand_grindstone"},
     { "predicate": { "custom_model_data": 2}, "model": "block/chair"},
     { "predicate": { "custom_model_data": 3}, "model": "cmd/misc/3_lock"},
-    { "predicate": { "custom_model_data": 4}, "model": "item/barrier"},
-    { "predicate": { "custom_model_data": 5}, "model": "item/barrier"},
+    { "predicate": { "custom_model_data": 4}, "model": "cmd/misc/4_dough_cake"},
+    { "predicate": { "custom_model_data": 5}, "model": "cmd/misc/5_dough_chocolate_cookie"},
     { "predicate": { "custom_model_data": 6}, "model": "cmd/misc/6_dough_bread"},
     { "predicate": { "custom_model_data": 7}, "model": "cmd/misc/7_dough_cookie"},
     { "predicate": { "custom_model_data": 8}, "model": "cmd/misc/8_dough_pumpkin_pie"},
@@ -21,6 +21,16 @@
     { "predicate": { "custom_model_data": 15}, "model": "cmd/misc/15_dice4"},
     { "predicate": { "custom_model_data": 16}, "model": "cmd/misc/16_dice5"},
     { "predicate": { "custom_model_data": 17}, "model": "cmd/misc/17_dice6"},
-    { "predicate": { "custom_model_data": 18}, "model": "cmd/misc/18_tooth"}
+    { "predicate": { "custom_model_data": 18}, "model": "cmd/misc/18_tooth"},
+    { "predicate": { "custom_model_data": 19}, "model": "cmd/misc/19_dough_berry_pie"},
+    { "predicate": { "custom_model_data": 20}, "model": "cmd/misc/20_dough_potato_pie"},
+    { "predicate": { "custom_model_data": 21}, "model": "cmd/misc/21_dough_fish_pie"},
+    { "predicate": { "custom_model_data": 22}, "model": "cmd/misc/22_dough_apple_pie"},
+    { "predicate": { "custom_model_data": 23}, "model": "cmd/misc/23_dough_chocolate_pie"},
+    { "predicate": { "custom_model_data": 24}, "model": "cmd/misc/24_dough_meat_pie"},
+    { "predicate": { "custom_model_data": 25}, "model": "cmd/misc/25_dough_chicken_pie"},
+    { "predicate": { "custom_model_data": 26}, "model": "cmd/misc/26_dough_cream_pie"},
+    { "predicate": { "custom_model_data": 27}, "model": "cmd/misc/27_dough_cheese_pie"},
+    { "predicate": { "custom_model_data": 28}, "model": "cmd/misc/28_dough_empty_pie"}
   ]
 }
